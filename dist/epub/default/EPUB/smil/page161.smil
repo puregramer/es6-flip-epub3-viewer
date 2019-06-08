@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  darwin unable -->
+      <text src="../contents/Page161.xhtml#word1"/>
+      <audio clipBegin="0:00:31.38" clipEnd="0:00:36.88" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  i think it's -->
+      <text src="../contents/Page161.xhtml#word2"/>
+      <audio clipBegin="0:00:36.88" clipEnd="0:00:41.58" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  i didn't care -->
+      <text src="../contents/Page161.xhtml#word3"/>
+      <audio clipBegin="0:00:41.58" clipEnd="0:00:46.40" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- hmm, so just -->
+      <text src="../contents/Page161.xhtml#word4"/>
+      <audio clipBegin="0:00:46.40" clipEnd="0:00:50.28" src="../media/cd2/24.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- no, i didn't mean -->
+      <text src="../contents/Page161.xhtml#word5"/>
+      <audio clipBegin="0:00:50.28" clipEnd="0:00:57.84" src="../media/cd2/24.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- darwin could -->
+      <text src="../contents/Page161.xhtml#word6"/>
+      <audio clipBegin="0:00:57.84" clipEnd="0:01:07.70" src="../media/cd2/24.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- then, one day -->
+      <text src="../contents/Page161.xhtml#word7"/>
+      <audio clipBegin="0:01:07.70" clipEnd="0:01:11.72" src="../media/cd2/24.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- honey-->
+      <text src="../contents/Page161.xhtml#word8"/>
+      <audio clipBegin="0:01:11.72" clipEnd="0:01:15.56" src="../media/cd2/24.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- oh -->
+      <text src="../contents/Page161.xhtml#word9"/>
+      <audio clipBegin="0:01:15.56" clipEnd="0:01:17.02" src="../media/cd2/24.mp3"/>
+	</par>
+  </body>
+</smil>

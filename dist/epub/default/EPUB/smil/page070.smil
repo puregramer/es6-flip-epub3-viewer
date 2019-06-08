@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+  <par id="id1">
+      <!--   and now -->
+      <text src="../contents/Page70.xhtml#word1"/>
+      <audio clipBegin="0:00:03.72" clipEnd="0:00:07.96" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- there are insects  -->
+      <text src="../contents/Page70.xhtml#word2"/>
+      <audio clipBegin="0:00:07.96" clipEnd="0:00:11.86" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  hey, it -->
+      <text src="../contents/Page70.xhtml#word3"/>
+      <audio clipBegin="0:00:11.86" clipEnd="0:00:14.86" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  in that -->
+      <text src="../contents/Page70.xhtml#word4"/>
+      <audio clipBegin="0:00:14.86" clipEnd="0:00:16.86" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   i really  -->
+      <text src="../contents/Page70.xhtml#word5"/>
+      <audio clipBegin="0:00:16.86" clipEnd="0:00:21.14" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  fx-->
+      <text src="../contents/Page70.xhtml#word6"/>
+      <audio clipBegin="0:00:21.14" clipEnd="0:00:21.70" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  whaaaaat -->
+      <text src="../contents/Page70.xhtml#word7"/>
+      <audio clipBegin="0:00:21.70" clipEnd="0:00:25.14" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id8">
+      <!--   go have -->
+      <text src="../contents/Page70.xhtml#word8"/>
+      <audio clipBegin="0:00:25.14" clipEnd="0:00:27.42" src="../media/cd1/31.mp3"/>
+	</par>
+  </body>
+</smil>

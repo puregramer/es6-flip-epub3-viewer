@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  earthworms -->
+      <text src="../contents/Page180.xhtml#word1"/>
+      <audio clipBegin="0:00:03.20" clipEnd="0:00:08.72" src="../media/cd2/34.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  for hundreds -->
+      <text src="../contents/Page180.xhtml#word2"/>
+      <audio clipBegin="0:00:08.72" clipEnd="0:00:22.40" src="../media/cd2/34.mp3"/>
+    </par>
+    <par id="id3">
+      <!--   darwin wrote -->
+      <text src="../contents/Page180.xhtml#word3"/>
+      <audio clipBegin="0:00:22.40" clipEnd="0:00:30.42" src="../media/cd2/34.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- of all your -->
+      <text src="../contents/Page180.xhtml#word4"/>
+      <audio clipBegin="0:00:30.42" clipEnd="0:00:35.14" src="../media/cd2/34.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  you mean -->
+      <text src="../contents/Page180.xhtml#word5"/>
+      <audio clipBegin="0:00:35.14" clipEnd="0:00:38.28" src="../media/cd2/34.mp3"/>
+    </par>
+  </body>
+</smil>

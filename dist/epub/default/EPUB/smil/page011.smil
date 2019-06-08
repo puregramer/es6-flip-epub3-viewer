@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- ow! -->
+      <text src="../contents/Page11.xhtml#word1"/>
+      <audio clipBegin="0:00:29.96" clipEnd="0:00:31.44" src="../media/cd1/01.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- i've been stung  -->
+      <text src="../contents/Page11.xhtml#word2"/>
+      <audio clipBegin="0:00:31.44" clipEnd="0:00:35.02" src="../media/cd1/01.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- charles  -->
+      <text src="../contents/Page11.xhtml#word3"/>
+      <audio clipBegin="0:00:35.02" clipEnd="0:00:36.22" src="../media/cd1/01.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  hm? -->
+      <text src="../contents/Page11.xhtml#word4"/>
+      <audio clipBegin="0:00:36.22" clipEnd="0:00:37.42" src="../media/cd1/01.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   caroline! if she find -->
+      <text src="../contents/Page11.xhtml#word5"/>
+      <audio clipBegin="0:00:37.42" clipEnd="0:00:43.48" src="../media/cd1/01.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  charles, listen to me -->
+      <text src="../contents/Page11.xhtml#word6"/>
+      <audio clipBegin="0:00:43.48" clipEnd="0:00:45.74" src="../media/cd1/01.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  sis, it's not a bee sting -->
+      <text src="../contents/Page11.xhtml#word7"/>
+      <audio clipBegin="0:00:45.74" clipEnd="0:00:49.70" src="../media/cd1/01.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  mother passed away -->
+      <text src="../contents/Page11.xhtml#word8"/>
+      <audio clipBegin="0:00:49.70" clipEnd="0:00:51.76" src="../media/cd1/01.mp3"/>
+    </par>
+	<par id="id9">
+      <!--  mother? -->
+      <text src="../contents/Page11.xhtml#word9"/>
+      <audio clipBegin="0:00:51.76" clipEnd="0:00:52.76" src="../media/cd1/01.mp3"/>
+    </par>
+  </body>
+</smil>
+

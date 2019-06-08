@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- but it's -->
+      <text src="../contents/Page91.xhtml#word1"/>
+      <audio clipBegin="0:00:49.72" clipEnd="0:00:55.58" src="../media/cd1/41.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  right -->
+      <text src="../contents/Page91.xhtml#word2"/>
+      <audio clipBegin="0:00:55.58" clipEnd="0:01:00.12" src="../media/cd1/41.mp3"/>
+    </par>
+	<par id="id3">
+      <!--  and then -->
+      <text src="../contents/Page91.xhtml#word3"/>
+      <audio clipBegin="0:01:00.12" clipEnd="0:01:04.52" src="../media/cd1/41.mp3"/>
+    </par>
+	<par id="id4">
+      <!--  however -->
+      <text src="../contents/Page91.xhtml#word4"/>
+      <audio clipBegin="0:01:04.52" clipEnd="0:01:12.04" src="../media/cd1/41.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- what do you -->
+      <text src="../contents/Page91.xhtml#word5"/>
+      <audio clipBegin="0:01:12.04" clipEnd="0:01:16.54" src="../media/cd1/41.mp3"/>
+	</par>
+	<par id="id6">
+      <!--  most people -->
+      <text src="../contents/Page91.xhtml#word6"/>
+      <audio clipBegin="0:01:16.54" clipEnd="0:01:21.00" src="../media/cd1/41.mp3"/>
+	</par>
+	<par id="id7">
+      <!--   the similarity -->
+      <text src="../contents/Page91.xhtml#word7"/>
+      <audio clipBegin="0:01:21.00" clipEnd="0:01:26.26" src="../media/cd1/41.mp3"/>
+	</par>
+  </body>
+</smil>

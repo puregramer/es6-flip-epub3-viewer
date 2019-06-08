@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  darwin had been -->
+      <text src="../contents/Page162.xhtml#word1"/>
+      <audio clipBegin="0:00:03.68" clipEnd="0:00:11.44" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  seems like -->
+      <text src="../contents/Page162.xhtml#word2"/>
+      <audio clipBegin="0:00:11.44" clipEnd="0:00:15.40" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  wallace was an -->
+      <text src="../contents/Page162.xhtml#word3"/>
+      <audio clipBegin="0:00:15.40" clipEnd="0:00:24.94" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- hmm? it looks -->
+      <text src="../contents/Page162.xhtml#word4"/>
+      <audio clipBegin="0:00:24.94" clipEnd="0:00:35.52" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- darwin was -->
+      <text src="../contents/Page162.xhtml#word5"/>
+      <audio clipBegin="0:00:35.52" clipEnd="0:00:39.22" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- how can this -->
+      <text src="../contents/Page162.xhtml#word6"/>
+      <audio clipBegin="0:00:39.22" clipEnd="0:00:44.18" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- so there has been -->
+      <text src="../contents/Page162.xhtml#word7"/>
+      <audio clipBegin="0:00:44.18" clipEnd="0:00:48.58" src="../media/cd2/25.mp3"/>
+	</par>
+  </body>
+</smil>

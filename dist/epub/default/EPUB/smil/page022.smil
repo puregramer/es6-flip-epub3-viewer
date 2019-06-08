@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- Effect(01) -->
+      <text src="../contents/Page22.xhtml#word1"/>
+      <audio clipBegin="0:00:03.22" clipEnd="0:00:07.98" src="../media/cd1/07.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- wow. look at all  -->
+      <text src="../contents/Page22.xhtml#word2"/>
+      <audio clipBegin="0:00:07.98" clipEnd="0:00:11.54" src="../media/cd1/07.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- see, i told you  -->
+      <text src="../contents/Page22.xhtml#word3"/>
+      <audio clipBegin="0:00:11.54" clipEnd="0:00:13.66" src="../media/cd1/07.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  there are even -->
+      <text src="../contents/Page22.xhtml#word4"/>
+      <audio clipBegin="0:00:13.66" clipEnd="0:00:16.52" src="../media/cd1/07.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   and you won't -->
+      <text src="../contents/Page22.xhtml#word5"/>
+      <audio clipBegin="0:00:16.52" clipEnd="0:00:19.16" src="../media/cd1/07.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i'm so glad we -->
+      <text src="../contents/Page22.xhtml#word6"/>
+      <audio clipBegin="0:00:19.16" clipEnd="0:00:21.42" src="../media/cd1/07.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i've got to -->
+      <text src="../contents/Page22.xhtml#word7"/>
+      <audio clipBegin="0:00:21.42" clipEnd="0:00:25.28" src="../media/cd1/07.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  man, what am -->
+      <text src="../contents/Page22.xhtml#word8"/>
+      <audio clipBegin="0:00:25.28" clipEnd="0:00:27.44" src="../media/cd1/07.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

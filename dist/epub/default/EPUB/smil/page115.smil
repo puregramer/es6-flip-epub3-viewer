@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   these animals -->
+      <text src="../contents/Page115.xhtml#word1"/>
+      <audio clipBegin="0:00:38.56" clipEnd="0:00:42.30" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  that's the first -->
+      <text src="../contents/Page115.xhtml#word2"/>
+      <audio clipBegin="0:00:42.30" clipEnd="0:00:45.96" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin didn't -->
+      <text src="../contents/Page115.xhtml#word3"/>
+      <audio clipBegin="0:00:45.96" clipEnd="0:00:50.20" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- what, you -->
+      <text src="../contents/Page115.xhtml#word4"/>
+      <audio clipBegin="0:00:50.20" clipEnd="0:00:54.04" src="../media/cd2/01.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- there are also -->
+      <text src="../contents/Page115.xhtml#word5"/>
+      <audio clipBegin="0:00:54.04" clipEnd="0:00:56.92" src="../media/cd2/01.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- although -->
+      <text src="../contents/Page115.xhtml#word6"/>
+      <audio clipBegin="0:00:56.92" clipEnd="0:01:08.00" src="../media/cd2/01.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- theres nothing -->
+      <text src="../contents/Page115.xhtml#word7"/>
+      <audio clipBegin="0:01:08.00" clipEnd="0:01:12.54" src="../media/cd2/01.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  even then -->
+      <text src="../contents/Page115.xhtml#word8"/>
+      <audio clipBegin="0:01:12.54" clipEnd="0:01:25.70" src="../media/cd2/01.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  there's no point -->
+      <text src="../contents/Page115.xhtml#word9"/>
+      <audio clipBegin="0:01:25.70" clipEnd="0:01:31.12" src="../media/cd2/01.mp3"/>
+	</par>
+  </body>
+</smil>

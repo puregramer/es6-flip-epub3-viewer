@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   the natives -->
+      <text src="../contents/Page98.xhtml#word1"/>
+      <audio clipBegin="0:00:04.18" clipEnd="0:00:12.38" src="../media/cd1/45.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- however  -->
+      <text src="../contents/Page98.xhtml#word2"/>
+      <audio clipBegin="0:00:12.38" clipEnd="0:00:23.72" src="../media/cd1/45.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- that's -->
+      <text src="../contents/Page98.xhtml#word3"/>
+      <audio clipBegin="0:00:23.72" clipEnd="0:00:25.72" src="../media/cd1/45.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  since our -->
+      <text src="../contents/Page98.xhtml#word4"/>
+      <audio clipBegin="0:00:25.72" clipEnd="0:00:31.56" src="../media/cd1/45.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  what kind -->
+      <text src="../contents/Page98.xhtml#word5"/>
+      <audio clipBegin="0:00:31.56" clipEnd="0:00:33.86" src="../media/cd1/45.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  we would -->
+      <text src="../contents/Page98.xhtml#word6"/>
+      <audio clipBegin="0:00:33.86" clipEnd="0:00:38.74" src="../media/cd1/45.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- then, we -->
+      <text src="../contents/Page98.xhtml#word7"/>
+      <audio clipBegin="0:00:38.74" clipEnd="0:00:44.32" src="../media/cd1/45.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  oh -->
+      <text src="../contents/Page98.xhtml#word8"/>
+      <audio clipBegin="0:00:44.32" clipEnd="0:00:45.60" src="../media/cd1/45.mp3"/>
+	</par>
+  </body>
+</smil>

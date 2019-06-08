@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  soon, darwin -->
+      <text src="../contents/Page153.xhtml#word1"/>
+      <audio clipBegin="0:00:43.72" clipEnd="0:00:56.30" src="../media/cd2/20.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  he cries, and -->
+      <text src="../contents/Page153.xhtml#word2"/>
+      <audio clipBegin="0:00:56.30" clipEnd="0:01:02.02" src="../media/cd2/20.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin continued -->
+      <text src="../contents/Page153.xhtml#word3"/>
+      <audio clipBegin="0:01:02.02" clipEnd="0:01:06.78" src="../media/cd2/20.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- kaff kaff -->
+      <text src="../contents/Page153.xhtml#word4"/>
+      <audio clipBegin="0:01:06.78" clipEnd="0:01:08.04" src="../media/cd2/20.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- at age 32 -->
+      <text src="../contents/Page153.xhtml#word5"/>
+      <audio clipBegin="0:01:08.04" clipEnd="0:01:17.46" src="../media/cd2/20.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- you need -->
+      <text src="../contents/Page153.xhtml#word6"/>
+      <audio clipBegin="0:01:17.46" clipEnd="0:01:20.66" src="../media/cd2/20.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- but i want to -->
+      <text src="../contents/Page153.xhtml#word7"/>
+      <audio clipBegin="0:01:20.66" clipEnd="0:01:26.00" src="../media/cd2/20.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- something happened -->
+      <text src="../contents/Page153.xhtml#word8"/>
+      <audio clipBegin="0:01:26.00" clipEnd="0:01:29.74" src="../media/cd2/20.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- my friend -->
+      <text src="../contents/Page153.xhtml#word9"/>
+      <audio clipBegin="0:01:29.74" clipEnd="0:01:31.38" src="../media/cd2/20.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- please -->
+      <text src="../contents/Page153.xhtml#word10"/>
+      <audio clipBegin="0:01:31.38" clipEnd="0:01:33.38" src="../media/cd2/20.mp3"/>
+	</par>
+  </body>
+</smil>

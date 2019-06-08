@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!--  yikes -->
+      <text src="../contents/Page55.xhtml#word1"/>
+      <audio clipBegin="0:00:42.44" clipEnd="0:00:43.64" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- sorry  -->
+      <text src="../contents/Page55.xhtml#word2"/>
+      <audio clipBegin="0:00:43.64" clipEnd="0:00:46.32" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  hey -->
+      <text src="../contents/Page55.xhtml#word3"/>
+      <audio clipBegin="0:00:46.32" clipEnd="0:00:49.92" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  this boat -->
+      <text src="../contents/Page55.xhtml#word4"/>
+      <audio clipBegin="0:00:49.92" clipEnd="0:00:55.60" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   we will -->
+      <text src="../contents/Page55.xhtml#word5"/>
+      <audio clipBegin="0:00:55.60" clipEnd="0:01:01.84" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  and we'll -->
+      <text src="../contents/Page55.xhtml#word6"/>
+      <audio clipBegin="0:01:01.84" clipEnd="0:01:07.96" src="../media/cd1/23.mp3"/>
+    </par>
+  </body>
+</smil>

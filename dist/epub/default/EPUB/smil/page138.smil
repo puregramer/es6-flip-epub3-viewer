@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  the fact -->
+      <text src="../contents/Page138.xhtml#word1"/>
+      <audio clipBegin="0:00:03.04" clipEnd="0:00:07.76" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  but what -->
+      <text src="../contents/Page138.xhtml#word2"/>
+      <audio clipBegin="0:00:07.76" clipEnd="0:00:11.98" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  no matter -->
+      <text src="../contents/Page138.xhtml#word3"/>
+      <audio clipBegin="0:00:11.98" clipEnd="0:00:16.60" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- what -->
+      <text src="../contents/Page138.xhtml#word4"/>
+      <audio clipBegin="0:00:16.60" clipEnd="0:00:17.56" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- what did you -->
+      <text src="../contents/Page138.xhtml#word5"/>
+      <audio clipBegin="0:00:17.56" clipEnd="0:00:22.20" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- yes. this fossil -->
+      <text src="../contents/Page138.xhtml#word6"/>
+      <audio clipBegin="0:00:22.20" clipEnd="0:00:30.82" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- animals that -->
+      <text src="../contents/Page138.xhtml#word7"/>
+      <audio clipBegin="0:00:30.82" clipEnd="0:00:33.36" src="../media/cd2/13.mp3"/>
+	</par>
+  </body>
+</smil>

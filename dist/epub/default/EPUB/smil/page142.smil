@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  where do you -->
+      <text src="../contents/Page142.xhtml#word1"/>
+      <audio clipBegin="0:00:03.46" clipEnd="0:00:06.54" src="../media/cd2/15.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  i taught him -->
+      <text src="../contents/Page142.xhtml#word2"/>
+      <audio clipBegin="0:00:06.54" clipEnd="0:00:08.78" src="../media/cd2/15.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  i seem to remember -->
+      <text src="../contents/Page142.xhtml#word3"/>
+      <audio clipBegin="0:00:08.78" clipEnd="0:00:12.80" src="../media/cd2/15.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- discontent is -->
+      <text src="../contents/Page142.xhtml#word4"/>
+      <audio clipBegin="0:00:12.80" clipEnd="0:00:16.68" src="../media/cd2/15.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- think how you -->
+      <text src="../contents/Page142.xhtml#word5"/>
+      <audio clipBegin="0:00:16.68" clipEnd="0:00:20.82" src="../media/cd2/15.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- and then you -->
+      <text src="../contents/Page142.xhtml#word6"/>
+      <audio clipBegin="0:00:20.82" clipEnd="0:00:23.90" src="../media/cd2/15.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- oh, i see i'm -->
+      <text src="../contents/Page142.xhtml#word7"/>
+      <audio clipBegin="0:00:23.90" clipEnd="0:00:27.42" src="../media/cd2/15.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- erasmus -->
+      <text src="../contents/Page142.xhtml#word8"/>
+      <audio clipBegin="0:00:27.42" clipEnd="0:00:28.70" src="../media/cd2/15.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- huh? -->
+      <text src="../contents/Page142.xhtml#word9"/>
+      <audio clipBegin="0:00:28.70" clipEnd="0:00:29.82" src="../media/cd2/15.mp3"/>
+	</par>
+  </body>
+</smil>

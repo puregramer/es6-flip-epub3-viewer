@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   zzzz -->
+      <text src="../contents/Page78.xhtml#word1"/>
+      <audio clipBegin="0:00:03.94" clipEnd="0:00:07.12" src="../media/cd1/35.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- !  -->
+      <text src="../contents/Page78.xhtml#word2"/>
+      <audio clipBegin="0:00:07.12" clipEnd="0:00:08.66" src="../media/cd1/35.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- looks -->
+      <text src="../contents/Page78.xhtml#word3"/>
+      <audio clipBegin="0:00:08.66" clipEnd="0:00:11.50" src="../media/cd1/35.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  darwin -->
+      <text src="../contents/Page78.xhtml#word4"/>
+      <audio clipBegin="0:00:11.50" clipEnd="0:00:18.94" src="../media/cd1/35.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  wow. -->
+      <text src="../contents/Page78.xhtml#word5"/>
+      <audio clipBegin="0:00:18.94" clipEnd="0:00:22.78" src="../media/cd1/35.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  and at -->
+      <text src="../contents/Page78.xhtml#word6"/>
+      <audio clipBegin="0:00:22.78" clipEnd="0:00:30.30" src="../media/cd1/35.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  even after -->
+      <text src="../contents/Page78.xhtml#word7"/>
+      <audio clipBegin="0:00:30.30" clipEnd="0:00:33.46" src="../media/cd1/35.mp3"/>
+	</par>
+	<par id="id8">
+      <!--   he discovered -->
+      <text src="../contents/Page78.xhtml#word8"/>
+      <audio clipBegin="0:00:33.46" clipEnd="0:00:41.38" src="../media/cd1/35.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  does this -->
+      <text src="../contents/Page78.xhtml#word9"/>
+      <audio clipBegin="0:00:41.38" clipEnd="0:00:45.98" src="../media/cd1/35.mp3"/>
+	</par>
+  </body>
+</smil>

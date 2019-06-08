@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   fx -->
+      <text src="../contents/Page76.xhtml#word1"/>
+      <audio clipBegin="0:00:02.58" clipEnd="0:00:07.82" src="../media/cd1/34.mp3"/>
+    </par>
+	<par id="id2">
+      <!--   darwin -->
+      <text src="../contents/Page76.xhtml#word2"/>
+      <audio clipBegin="0:00:07.82" clipEnd="0:00:12.38" src="../media/cd1/34.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- i should  -->
+      <text src="../contents/Page76.xhtml#word3"/>
+      <audio clipBegin="0:00:12.38" clipEnd="0:00:17.18" src="../media/cd1/34.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  i'm on my -->
+      <text src="../contents/Page76.xhtml#word4"/>
+      <audio clipBegin="0:00:17.18" clipEnd="0:00:22.92" src="../media/cd1/34.mp3"/>
+    </par>
+    <par id="id5">
+      <!--  i doubt -->
+      <text src="../contents/Page76.xhtml#word5"/>
+      <audio clipBegin="0:00:22.92" clipEnd="0:00:27.26" src="../media/cd1/34.mp3"/>
+    </par>
+	<par id="id6">
+      <!--   a firefly -->
+      <text src="../contents/Page76.xhtml#word6"/>
+      <audio clipBegin="0:00:27.26" clipEnd="0:00:29.20" src="../media/cd1/34.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  it's amazing -->
+      <text src="../contents/Page76.xhtml#word7"/>
+      <audio clipBegin="0:00:29.20" clipEnd="0:00:32.22" src="../media/cd1/34.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  these are -->
+      <text src="../contents/Page76.xhtml#word8"/>
+      <audio clipBegin="0:00:32.22" clipEnd="0:00:41.16" src="../media/cd1/34.mp3"/>
+	</par>
+  </body>
+</smil>

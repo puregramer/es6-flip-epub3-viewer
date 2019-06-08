@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  darwin and emma -->
+      <text src="../contents/Page145.xhtml#word1"/>
+      <audio clipBegin="0:00:50.56" clipEnd="0:00:55.82" src="../media/cd2/16.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  thanks for -->
+      <text src="../contents/Page145.xhtml#word2"/>
+      <audio clipBegin="0:00:55.82" clipEnd="0:00:58.42" src="../media/cd2/16.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  of course -->
+      <text src="../contents/Page145.xhtml#word3"/>
+      <audio clipBegin="0:00:58.42" clipEnd="0:01:00.52" src="../media/cd2/16.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- actually -->
+      <text src="../contents/Page145.xhtml#word4"/>
+      <audio clipBegin="0:01:00.52" clipEnd="0:01:03.70" src="../media/cd2/16.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- around that time -->
+      <text src="../contents/Page145.xhtml#word5"/>
+      <audio clipBegin="0:01:03.70" clipEnd="0:01:08.78" src="../media/cd2/16.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- your book was incredibly -->
+      <text src="../contents/Page145.xhtml#word6"/>
+      <audio clipBegin="0:01:08.78" clipEnd="0:01:16.08" src="../media/cd2/16.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- what book -->
+      <text src="../contents/Page145.xhtml#word7"/>
+      <audio clipBegin="0:01:16.08" clipEnd="0:01:17.88" src="../media/cd2/16.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- it's malthus -->
+      <text src="../contents/Page145.xhtml#word8"/>
+      <audio clipBegin="0:01:17.88" clipEnd="0:01:20.76" src="../media/cd2/16.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- oh, you've -->
+      <text src="../contents/Page145.xhtml#word9"/>
+      <audio clipBegin="0:01:20.76" clipEnd="0:01:23.80" src="../media/cd2/16.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- because the rate -->
+      <text src="../contents/Page145.xhtml#word10"/>
+      <audio clipBegin="0:01:23.80" clipEnd="0:01:33.10" src="../media/cd2/16.mp3"/>
+	</par>
+	<par id="id11">
+      <!-- oh -->
+      <text src="../contents/Page145.xhtml#word11"/>
+      <audio clipBegin="0:01:33.10" clipEnd="0:01:34.28" src="../media/cd2/16.mp3"/>
+	</par>
+  </body>
+</smil>

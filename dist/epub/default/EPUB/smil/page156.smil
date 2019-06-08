@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  in 1846 -->
+      <text src="../contents/Page156.xhtml#word1"/>
+      <audio clipBegin="0:00:03.56" clipEnd="0:00:11.96" src="../media/cd2/22.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  it's finally -->
+      <text src="../contents/Page156.xhtml#word2"/>
+      <audio clipBegin="0:00:11.96" clipEnd="0:00:17.52" src="../media/cd2/22.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  huh? looks -->
+      <text src="../contents/Page156.xhtml#word3"/>
+      <audio clipBegin="0:00:17.52" clipEnd="0:00:20.62" src="../media/cd2/22.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- barnacles -->
+      <text src="../contents/Page156.xhtml#word4"/>
+      <audio clipBegin="0:00:20.62" clipEnd="0:00:25.60" src="../media/cd2/22.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- right, i need -->
+      <text src="../contents/Page156.xhtml#word5"/>
+      <audio clipBegin="0:00:25.60" clipEnd="0:00:31.46" src="../media/cd2/22.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- darwin devoted -->
+      <text src="../contents/Page156.xhtml#word6"/>
+      <audio clipBegin="0:00:31.46" clipEnd="0:00:40.44" src="../media/cd2/22.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- they say he's -->
+      <text src="../contents/Page156.xhtml#word7"/>
+      <audio clipBegin="0:00:40.44" clipEnd="0:00:44.14" src="../media/cd2/22.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- i've never -->
+      <text src="../contents/Page156.xhtml#word8"/>
+      <audio clipBegin="0:00:44.14" clipEnd="0:00:46.76" src="../media/cd2/22.mp3"/>
+	</par>
+  </body>
+</smil>

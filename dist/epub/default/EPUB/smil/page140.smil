@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  today nobody -->
+      <text src="../contents/Page140.xhtml#word1"/>
+      <audio clipBegin="0:00:03.78" clipEnd="0:00:15.78" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  the history -->
+      <text src="../contents/Page140.xhtml#word2"/>
+      <audio clipBegin="0:00:15.78" clipEnd="0:00:21.90" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  that's preposterous -->
+      <text src="../contents/Page140.xhtml#word3"/>
+      <audio clipBegin="0:00:21.90" clipEnd="0:00:24.04" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- he's a radical -->
+      <text src="../contents/Page140.xhtml#word4"/>
+      <audio clipBegin="0:00:24.04" clipEnd="0:00:26.46" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- and he wants -->
+      <text src="../contents/Page140.xhtml#word5"/>
+      <audio clipBegin="0:00:26.46" clipEnd="0:00:29.12" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- all life was -->
+      <text src="../contents/Page140.xhtml#word6"/>
+      <audio clipBegin="0:00:29.12" clipEnd="0:00:33.10" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- it's not yet -->
+      <text src="../contents/Page140.xhtml#word7"/>
+      <audio clipBegin="0:00:33.10" clipEnd="0:00:35.94" src="../media/cd2/14.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- i've got to -->
+      <text src="../contents/Page140.xhtml#word8"/>
+      <audio clipBegin="0:00:35.94" clipEnd="0:00:41.58" src="../media/cd2/14.mp3"/>
+	</par>
+  </body>
+</smil>

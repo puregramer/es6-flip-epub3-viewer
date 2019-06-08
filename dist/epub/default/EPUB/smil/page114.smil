@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   chapter 5 -->
+      <text src="../contents/Page114.xhtml#word1"/>
+      <audio clipBegin="0:00:04.20" clipEnd="0:00:11.86" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  the galapagos -->
+      <text src="../contents/Page114.xhtml#word2"/>
+      <audio clipBegin="0:00:11.86" clipEnd="0:00:28.10" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  ho-hum -->
+      <text src="../contents/Page114.xhtml#word3"/>
+      <audio clipBegin="0:00:28.10" clipEnd="0:00:30.10" src="../media/cd2/01.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- what are those -->
+      <text src="../contents/Page114.xhtml#word4"/>
+      <audio clipBegin="0:00:30.10" clipEnd="0:00:32.76" src="../media/cd2/01.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- there's an -->
+      <text src="../contents/Page114.xhtml#word5"/>
+      <audio clipBegin="0:00:32.76" clipEnd="0:00:36.42" src="../media/cd2/01.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- very -->
+      <text src="../contents/Page114.xhtml#word6"/>
+      <audio clipBegin="0:00:36.42" clipEnd="0:00:38.56" src="../media/cd2/01.mp3"/>
+    </par>
+  </body>
+</smil>

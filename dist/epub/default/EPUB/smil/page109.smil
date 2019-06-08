@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   you're -->
+      <text src="../contents/Page109.xhtml#word1"/>
+      <audio clipBegin="0:00:36.34" clipEnd="0:00:40.96" src="../media/cd1/50.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- prepare to finish -->
+      <text src="../contents/Page109.xhtml#word2"/>
+      <audio clipBegin="0:00:40.96" clipEnd="0:00:44.18" src="../media/cd1/50.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  we're so happy -->
+      <text src="../contents/Page109.xhtml#word3"/>
+      <audio clipBegin="0:00:44.18" clipEnd="0:00:46.94" src="../media/cd1/50.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- yeah -->
+      <text src="../contents/Page109.xhtml#word4"/>
+      <audio clipBegin="0:00:46.94" clipEnd="0:00:48.26" src="../media/cd1/50.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- captain you're -->
+      <text src="../contents/Page109.xhtml#word5"/>
+      <audio clipBegin="0:00:48.26" clipEnd="0:00:50.10" src="../media/cd1/50.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- as soon -->
+      <text src="../contents/Page109.xhtml#word6"/>
+      <audio clipBegin="0:00:50.10" clipEnd="0:00:56.14" src="../media/cd1/50.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- from the dock -->
+      <text src="../contents/Page109.xhtml#word7"/>
+      <audio clipBegin="0:00:56.14" clipEnd="0:01:00.70" src="../media/cd1/50.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  the power -->
+      <text src="../contents/Page109.xhtml#word8"/>
+      <audio clipBegin="0:01:00.70" clipEnd="0:01:03.62" src="../media/cd1/50.mp3"/>
+	</par>
+  </body>
+</smil>

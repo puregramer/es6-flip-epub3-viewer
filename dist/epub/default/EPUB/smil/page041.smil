@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- darwin spent -->
+      <text src="../contents/Page41.xhtml#word1"/>
+      <audio clipBegin="0:00:58.42" clipEnd="0:01:07.04" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- through  -->
+      <text src="../contents/Page41.xhtml#word2"/>
+      <audio clipBegin="0:01:07.04" clipEnd="0:01:12.42" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  sedgwick -->
+      <text src="../contents/Page41.xhtml#word3"/>
+      <audio clipBegin="0:01:12.42" clipEnd="0:01:19.46" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  of course -->
+      <text src="../contents/Page41.xhtml#word4"/>
+      <audio clipBegin="0:01:19.46" clipEnd="0:01:22.30" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   when he -->
+      <text src="../contents/Page41.xhtml#word5"/>
+      <audio clipBegin="0:01:22.30" clipEnd="0:01:28.88" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  aha -->
+      <text src="../contents/Page41.xhtml#word6"/>
+      <audio clipBegin="0:01:28.88" clipEnd="0:01:31.04" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  wow, theres -->
+      <text src="../contents/Page41.xhtml#word7"/>
+      <audio clipBegin="0:01:31.04" clipEnd="0:01:34.36" src="../media/cd1/16.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  but i've -->
+      <text src="../contents/Page41.xhtml#word8"/>
+      <audio clipBegin="0:01:34.36" clipEnd="0:01:37.20" src="../media/cd1/16.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

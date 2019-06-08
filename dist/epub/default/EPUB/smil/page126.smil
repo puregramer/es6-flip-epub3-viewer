@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  prepare the -->
+      <text src="../contents/Page126.xhtml#word1"/>
+      <audio clipBegin="0:00:03.38" clipEnd="0:00:05.56" src="../media/cd2/07.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  yes sir -->
+      <text src="../contents/Page126.xhtml#word2"/>
+      <audio clipBegin="0:00:05.56" clipEnd="0:00:07.08" src="../media/cd2/07.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  huh? there -->
+      <text src="../contents/Page126.xhtml#word3"/>
+      <audio clipBegin="0:00:07.08" clipEnd="0:00:11.50" src="../media/cd2/07.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- now that -->
+      <text src="../contents/Page126.xhtml#word4"/>
+      <audio clipBegin="0:00:11.50" clipEnd="0:00:15.62" src="../media/cd2/07.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- the beagle -->
+      <text src="../contents/Page126.xhtml#word5"/>
+      <audio clipBegin="0:00:15.62" clipEnd="0:00:21.24" src="../media/cd2/07.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- we're -->
+      <text src="../contents/Page126.xhtml#word6"/>
+      <audio clipBegin="0:00:21.24" clipEnd="0:00:23.60" src="../media/cd2/07.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- after stopping -->
+      <text src="../contents/Page126.xhtml#word7"/>
+      <audio clipBegin="0:00:23.60" clipEnd="0:00:29.28" src="../media/cd2/07.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- the new zealand -->
+      <text src="../contents/Page126.xhtml#word8"/>
+      <audio clipBegin="0:00:29.28" clipEnd="0:00:36.70" src="../media/cd2/07.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  i'd say the -->
+      <text src="../contents/Page126.xhtml#word9"/>
+      <audio clipBegin="0:00:36.70" clipEnd="0:00:40.18" src="../media/cd2/07.mp3"/>
+	</par>
+  </body>
+</smil>

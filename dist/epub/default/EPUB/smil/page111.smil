@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   the crew of the -->
+      <text src="../contents/Page111.xhtml#word1"/>
+      <audio clipBegin="0:00:52.00" clipEnd="0:01:02.76" src="../media/cd1/51.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  here's a slab -->
+      <text src="../contents/Page111.xhtml#word2"/>
+      <audio clipBegin="0:01:02.76" clipEnd="0:01:06.22" src="../media/cd1/51.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  this must have -->
+      <text src="../contents/Page111.xhtml#word3"/>
+      <audio clipBegin="0:01:06.22" clipEnd="0:01:10.42" src="../media/cd1/51.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- yes, that's it -->
+      <text src="../contents/Page111.xhtml#word4"/>
+      <audio clipBegin="0:01:10.42" clipEnd="0:01:12.56" src="../media/cd1/51.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- over the course -->
+      <text src="../contents/Page111.xhtml#word5"/>
+      <audio clipBegin="0:01:12.56" clipEnd="0:01:24.82" src="../media/cd1/51.mp3"/>
+    </par>
+  </body>
+</smil>

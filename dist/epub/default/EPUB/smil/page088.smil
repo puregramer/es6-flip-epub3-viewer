@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   the beagle -->
+      <text src="../contents/Page88.xhtml#word1"/>
+      <audio clipBegin="0:00:04.06" clipEnd="0:00:11.38" src="../media/cd1/40.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- after  -->
+      <text src="../contents/Page88.xhtml#word2"/>
+      <audio clipBegin="0:00:11.38" clipEnd="0:00:21.36" src="../media/cd1/40.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- be sure -->
+      <text src="../contents/Page88.xhtml#word3"/>
+      <audio clipBegin="0:00:21.36" clipEnd="0:00:24.12" src="../media/cd1/40.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  yes sir -->
+      <text src="../contents/Page88.xhtml#word4"/>
+      <audio clipBegin="0:00:24.12" clipEnd="0:00:26.12" src="../media/cd1/40.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  while the -->
+      <text src="../contents/Page88.xhtml#word5"/>
+      <audio clipBegin="0:00:26.12" clipEnd="0:00:33.76" src="../media/cd1/40.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i thought -->
+      <text src="../contents/Page88.xhtml#word6"/>
+      <audio clipBegin="0:00:33.76" clipEnd="0:00:36.50" src="../media/cd1/40.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- no -->
+      <text src="../contents/Page88.xhtml#word7"/>
+      <audio clipBegin="0:00:36.50" clipEnd="0:00:41.12" src="../media/cd1/40.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  here -->
+      <text src="../contents/Page88.xhtml#word8"/>
+      <audio clipBegin="0:00:41.12" clipEnd="0:00:45.46" src="../media/cd1/40.mp3"/>
+	</par>
+	<par id="id9">
+      <!--   it looks like -->
+      <text src="../contents/Page88.xhtml#word9"/>
+      <audio clipBegin="0:00:45.46" clipEnd="0:00:47.78" src="../media/cd1/40.mp3"/>
+	</par>
+	<par id="id10">
+      <!--   these -->
+      <text src="../contents/Page88.xhtml#word10"/>
+      <audio clipBegin="0:00:47.78" clipEnd="0:00:52.08" src="../media/cd1/40.mp3"/>
+	</par>
+  </body>
+</smil>

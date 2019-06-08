@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- after leaving -->
+      <text src="../contents/Page34.xhtml#word1"/>
+      <audio clipBegin="0:00:04.18" clipEnd="0:00:09.28" src="../media/cd1/13.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- upon returning  -->
+      <text src="../contents/Page34.xhtml#word2"/>
+      <audio clipBegin="0:00:09.28" clipEnd="0:00:15.82" src="../media/cd1/13.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  i got the last -->
+      <text src="../contents/Page34.xhtml#word3"/>
+      <audio clipBegin="0:00:15.82" clipEnd="0:00:17.50" src="../media/cd1/13.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  yep i saw it -->
+      <text src="../contents/Page34.xhtml#word4"/>
+      <audio clipBegin="0:00:17.50" clipEnd="0:00:19.82" src="../media/cd1/13.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   huh? -->
+      <text src="../contents/Page34.xhtml#word5"/>
+      <audio clipBegin="0:00:19.82" clipEnd="0:00:21.60" src="../media/cd1/13.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i don't get it i was -->
+      <text src="../contents/Page34.xhtml#word6"/>
+      <audio clipBegin="0:00:21.60" clipEnd="0:00:27.24" src="../media/cd1/13.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  don't worry, you've -->
+      <text src="../contents/Page34.xhtml#word7"/>
+      <audio clipBegin="0:00:27.24" clipEnd="0:00:30.04" src="../media/cd1/13.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  really? -->
+      <text src="../contents/Page34.xhtml#word8"/>
+      <audio clipBegin="0:00:30.04" clipEnd="0:00:30.76" src="../media/cd1/13.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   i can't -->
+      <text src="../contents/Page122.xhtml#word1"/>
+      <audio clipBegin="0:00:03.58" clipEnd="0:00:08.20" src="../media/cd2/05.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  did you just call -->
+      <text src="../contents/Page122.xhtml#word2"/>
+      <audio clipBegin="0:00:08.20" clipEnd="0:00:10.26" src="../media/cd2/05.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  gov-governor -->
+      <text src="../contents/Page122.xhtml#word3"/>
+      <audio clipBegin="0:00:10.26" clipEnd="0:00:14.48" src="../media/cd2/05.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- quick -->
+      <text src="../contents/Page122.xhtml#word4"/>
+      <audio clipBegin="0:00:14.48" clipEnd="0:00:17.92" src="../media/cd2/05.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- fx -->
+      <text src="../contents/Page122.xhtml#word5"/>
+      <audio clipBegin="0:00:17.92" clipEnd="0:00:18.98" src="../media/cd2/05.mp3"/>
+    </par>
+		<par id="id6">
+      <!-- darwins -->
+      <text src="../contents/Page122.xhtml#word6"/>
+      <audio clipBegin="0:00:18.98" clipEnd="0:00:33.90" src="../media/cd2/05.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- until -->
+      <text src="../contents/Page122.xhtml#word7"/>
+      <audio clipBegin="0:00:33.90" clipEnd="0:00:45.56" src="../media/cd2/05.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  i've got to -->
+      <text src="../contents/Page122.xhtml#word8"/>
+      <audio clipBegin="0:00:45.56" clipEnd="0:00:48.94" src="../media/cd2/05.mp3"/>
+	</par>
+  </body>
+</smil>

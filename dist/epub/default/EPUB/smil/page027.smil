@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- this rare -->
+      <text src="../contents/Page27.xhtml#word1"/>
+      <audio clipBegin="0:00:44.40" clipEnd="0:00:49.00" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- you stop  -->
+      <text src="../contents/Page27.xhtml#word2"/>
+      <audio clipBegin="0:00:49.00" clipEnd="0:00:50.82" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- if i get caught  -->
+      <text src="../contents/Page27.xhtml#word3"/>
+      <audio clipBegin="0:00:50.82" clipEnd="0:00:53.72" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  ah! my -->
+      <text src="../contents/Page27.xhtml#word4"/>
+      <audio clipBegin="0:00:53.72" clipEnd="0:00:56.48" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   charles was not -->
+      <text src="../contents/Page27.xhtml#word5"/>
+      <audio clipBegin="0:00:56.48" clipEnd="0:01:00.18" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  hmph! -->
+      <text src="../contents/Page27.xhtml#word6"/>
+      <audio clipBegin="0:01:00.18" clipEnd="0:01:01.20" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i'll have -->
+      <text src="../contents/Page27.xhtml#word7"/>
+      <audio clipBegin="0:01:01.20" clipEnd="0:01:05.38" src="../media/cd1/09.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

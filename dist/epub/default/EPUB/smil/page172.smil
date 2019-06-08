@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  however -->
+      <text src="../contents/Page172.xhtml#word1"/>
+      <audio clipBegin="0:00:03.60" clipEnd="0:00:10.92" src="../media/cd2/30.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  there's really -->
+      <text src="../contents/Page172.xhtml#word2"/>
+      <audio clipBegin="0:00:10.92" clipEnd="0:00:13.68" src="../media/cd2/30.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  the ailing darwin -->
+      <text src="../contents/Page172.xhtml#word3"/>
+      <audio clipBegin="0:00:13.68" clipEnd="0:00:20.26" src="../media/cd2/30.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- little did darwin -->
+      <text src="../contents/Page172.xhtml#word4"/>
+      <audio clipBegin="0:00:20.26" clipEnd="0:00:27.72" src="../media/cd2/30.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  the origin of -->
+      <text src="../contents/Page172.xhtml#word5"/>
+      <audio clipBegin="0:00:27.72" clipEnd="0:00:35.72" src="../media/cd2/30.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- scholars from -->
+      <text src="../contents/Page172.xhtml#word6"/>
+      <audio clipBegin="0:00:35.72" clipEnd="0:00:48.90" src="../media/cd2/30.mp3"/>
+    </par>
+  </body>
+</smil>

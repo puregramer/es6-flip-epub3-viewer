@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   i'm going -->
+      <text src="../contents/Page119.xhtml#word1"/>
+      <audio clipBegin="0:00:33.12" clipEnd="0:00:35.74" src="../media/cd2/03.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  suit yourself -->
+      <text src="../contents/Page119.xhtml#word2"/>
+      <audio clipBegin="0:00:35.74" clipEnd="0:00:40.14" src="../media/cd2/03.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  at the galapagos -->
+      <text src="../contents/Page119.xhtml#word3"/>
+      <audio clipBegin="0:00:40.14" clipEnd="0:00:48.38" src="../media/cd2/03.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- why go hunt -->
+      <text src="../contents/Page119.xhtml#word4"/>
+      <audio clipBegin="0:00:48.38" clipEnd="0:00:51.82" src="../media/cd2/03.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- because they thought -->
+      <text src="../contents/Page119.xhtml#word5"/>
+      <audio clipBegin="0:00:51.82" clipEnd="0:00:59.62" src="../media/cd2/03.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- darwin -->
+      <text src="../contents/Page119.xhtml#word6"/>
+      <audio clipBegin="0:00:59.62" clipEnd="0:01:02.38" src="../media/cd2/03.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- the geology -->
+      <text src="../contents/Page119.xhtml#word7"/>
+      <audio clipBegin="0:01:02.38" clipEnd="0:01:05.60" src="../media/cd2/03.mp3"/>
+	</par>
+  </body>
+</smil>

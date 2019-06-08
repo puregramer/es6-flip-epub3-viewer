@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!--  darwin replied -->
+      <text src="../contents/Page52.xhtml#word1"/>
+      <audio clipBegin="0:00:03.92" clipEnd="0:00:14.76" src="../media/cd1/22.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- on this  -->
+      <text src="../contents/Page52.xhtml#word2"/>
+      <audio clipBegin="0:00:14.76" clipEnd="0:00:20.70" src="../media/cd1/22.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  don't worry -->
+      <text src="../contents/Page52.xhtml#word3"/>
+      <audio clipBegin="0:00:20.70" clipEnd="0:00:24.50" src="../media/cd1/22.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  really -->
+      <text src="../contents/Page52.xhtml#word4"/>
+      <audio clipBegin="0:00:24.50" clipEnd="0:00:25.78" src="../media/cd1/22.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   together -->
+      <text src="../contents/Page52.xhtml#word5"/>
+      <audio clipBegin="0:00:25.78" clipEnd="0:00:30.54" src="../media/cd1/22.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  dear mr. -->
+      <text src="../contents/Page52.xhtml#word6"/>
+      <audio clipBegin="0:00:30.54" clipEnd="0:00:32.38" src="../media/cd1/22.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  to my -->
+      <text src="../contents/Page52.xhtml#word7"/>
+      <audio clipBegin="0:00:32.38" clipEnd="0:00:34.70" src="../media/cd1/22.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  darwin;s father -->
+      <text src="../contents/Page52.xhtml#word8"/>
+      <audio clipBegin="0:00:34.70" clipEnd="0:00:41.04" src="../media/cd1/22.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  if a rational -->
+      <text src="../contents/Page52.xhtml#word9"/>
+      <audio clipBegin="0:00:41.04" clipEnd="0:00:46.78" src="../media/cd1/22.mp3"/>
+	</par>
+  </body>
+</smil>

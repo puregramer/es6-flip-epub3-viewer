@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   i've -->
+      <text src="../contents/Page87.xhtml#word1"/>
+      <audio clipBegin="0:00:44.24" clipEnd="0:00:46.78" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- covington  -->
+      <text src="../contents/Page87.xhtml#word2"/>
+      <audio clipBegin="0:00:46.78" clipEnd="0:00:51.16" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- yes sir -->
+      <text src="../contents/Page87.xhtml#word3"/>
+      <audio clipBegin="0:00:51.16" clipEnd="0:00:52.50" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  eeyaah -->
+      <text src="../contents/Page87.xhtml#word4"/>
+      <audio clipBegin="0:00:52.50" clipEnd="0:00:53.78" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  darwin -->
+      <text src="../contents/Page87.xhtml#word5"/>
+      <audio clipBegin="0:00:53.78" clipEnd="0:01:03.64" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  also -->
+      <text src="../contents/Page87.xhtml#word6"/>
+      <audio clipBegin="0:01:03.64" clipEnd="0:01:10.96" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- i'm not seeing -->
+      <text src="../contents/Page87.xhtml#word7"/>
+      <audio clipBegin="0:01:10.96" clipEnd="0:01:14.80" src="../media/cd1/39.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  haha -->
+      <text src="../contents/Page87.xhtml#word8"/>
+      <audio clipBegin="0:01:14.80" clipEnd="0:01:16.16" src="../media/cd1/39.mp3"/>
+	</par>
+	<par id="id9">
+      <!--   dawin -->
+      <text src="../contents/Page87.xhtml#word9"/>
+      <audio clipBegin="0:01:16.16" clipEnd="0:01:24.32" src="../media/cd1/39.mp3"/>
+	</par>
+	<par id="id10">
+      <!--   professor -->
+      <text src="../contents/Page87.xhtml#word10"/>
+      <audio clipBegin="0:01:24.32" clipEnd="0:01:30.08" src="../media/cd1/39.mp3"/>
+	</par>
+  </body>
+</smil>

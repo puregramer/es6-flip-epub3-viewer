@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  in april -->
+      <text src="../contents/Page182.xhtml#word1"/>
+      <audio clipBegin="0:00:03.18" clipEnd="0:00:11.78" src="../media/cd2/35.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  darwin is -->
+      <text src="../contents/Page182.xhtml#word2"/>
+      <audio clipBegin="0:00:11.78" clipEnd="0:00:36.46" src="../media/cd2/35.mp3"/>
+    </par>
+  </body>
+</smil>

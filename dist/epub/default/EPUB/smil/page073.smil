@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   no food for -->
+      <text src="../contents/Page73.xhtml#word1"/>
+      <audio clipBegin="0:00:25.76" clipEnd="0:00:28.88" src="../media/cd1/32.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- that man  -->
+      <text src="../contents/Page73.xhtml#word2"/>
+      <audio clipBegin="0:00:28.88" clipEnd="0:00:31.52" src="../media/cd1/32.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  slaves are people -->
+      <text src="../contents/Page73.xhtml#word3"/>
+      <audio clipBegin="0:00:31.52" clipEnd="0:00:34.86" src="../media/cd1/32.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  that's enough -->
+      <text src="../contents/Page73.xhtml#word4"/>
+      <audio clipBegin="0:00:34.86" clipEnd="0:00:37.14" src="../media/cd1/32.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   he bought -->
+      <text src="../contents/Page73.xhtml#word5"/>
+      <audio clipBegin="0:00:37.14" clipEnd="0:00:41.54" src="../media/cd1/32.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  that's rubbish -->
+      <text src="../contents/Page73.xhtml#word6"/>
+      <audio clipBegin="0:00:41.54" clipEnd="0:00:43.22" src="../media/cd1/32.mp3"/>
+    </par>
+	<par id="id7">
+      <!--   i think -->
+      <text src="../contents/Page73.xhtml#word7"/>
+      <audio clipBegin="0:00:43.22" clipEnd="0:00:46.84" src="../media/cd1/32.mp3"/>
+	</par>
+  </body>
+</smil>

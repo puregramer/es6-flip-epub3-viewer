@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+  <par id="id1">
+      <!--   i've -->
+      <text src="../contents/Page71.xhtml#word1"/>
+      <audio clipBegin="0:00:27.42" clipEnd="0:00:33.32" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- professor  -->
+      <text src="../contents/Page71.xhtml#word2"/>
+      <audio clipBegin="0:00:33.32" clipEnd="0:00:41.72" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  i can't -->
+      <text src="../contents/Page71.xhtml#word3"/>
+      <audio clipBegin="0:00:41.72" clipEnd="0:00:48.06" src="../media/cd1/31.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  inside -->
+      <text src="../contents/Page71.xhtml#word4"/>
+      <audio clipBegin="0:00:48.06" clipEnd="0:00:52.80" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   my destiny -->
+      <text src="../contents/Page71.xhtml#word5"/>
+      <audio clipBegin="0:00:52.80" clipEnd="0:00:56.26" src="../media/cd1/31.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  after -->
+      <text src="../contents/Page71.xhtml#word6"/>
+      <audio clipBegin="0:00:56.26" clipEnd="0:01:06.60" src="../media/cd1/31.mp3"/>
+    </par>
+  </body>
+</smil>

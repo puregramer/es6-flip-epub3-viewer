@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- darwin spent -->
+      <text src="../contents/Page44.xhtml#word1"/>
+      <audio clipBegin="0:00:04.20" clipEnd="0:00:16.20" src="../media/cd1/18.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- how's school  -->
+      <text src="../contents/Page44.xhtml#word2"/>
+      <audio clipBegin="0:00:16.20" clipEnd="0:00:17.60" src="../media/cd1/18.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  it's been -->
+      <text src="../contents/Page44.xhtml#word3"/>
+      <audio clipBegin="0:00:17.60" clipEnd="0:00:25.06" src="../media/cd1/18.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  so you -->
+      <text src="../contents/Page44.xhtml#word4"/>
+      <audio clipBegin="0:00:25.06" clipEnd="0:00:28.76" src="../media/cd1/18.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   what are -->
+      <text src="../contents/Page44.xhtml#word5"/>
+      <audio clipBegin="0:00:28.76" clipEnd="0:00:31.10" src="../media/cd1/18.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  charles i'm -->
+      <text src="../contents/Page44.xhtml#word6"/>
+      <audio clipBegin="0:00:31.10" clipEnd="0:00:34.18" src="../media/cd1/18.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i can't -->
+      <text src="../contents/Page44.xhtml#word7"/>
+      <audio clipBegin="0:00:34.18" clipEnd="0:00:35.80" src="../media/cd1/18.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

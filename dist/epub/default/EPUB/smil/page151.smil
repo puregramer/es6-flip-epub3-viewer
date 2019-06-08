@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  honey -->
+      <text src="../contents/Page151.xhtml#word1"/>
+      <audio clipBegin="0:00:17.86" clipEnd="0:00:19.24" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  so-sorry -->
+      <text src="../contents/Page151.xhtml#word2"/>
+      <audio clipBegin="0:00:19.24" clipEnd="0:00:23.76" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin was -->
+      <text src="../contents/Page151.xhtml#word3"/>
+      <audio clipBegin="0:00:23.76" clipEnd="0:00:27.76" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- darwin suffered -->
+      <text src="../contents/Page151.xhtml#word4"/>
+      <audio clipBegin="0:00:27.76" clipEnd="0:00:39.74" src="../media/cd2/19.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- were you by -->
+      <text src="../contents/Page151.xhtml#word5"/>
+      <audio clipBegin="0:00:39.74" clipEnd="0:00:42.90" src="../media/cd2/19.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- no that i recall -->
+      <text src="../contents/Page151.xhtml#word6"/>
+      <audio clipBegin="0:00:42.90" clipEnd="0:00:44.90" src="../media/cd2/19.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- very strange -->
+      <text src="../contents/Page151.xhtml#word7"/>
+      <audio clipBegin="0:00:44.90" clipEnd="0:00:49.60" src="../media/cd2/19.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- my mother was -->
+      <text src="../contents/Page151.xhtml#word8"/>
+      <audio clipBegin="0:00:49.60" clipEnd="0:00:54.88" src="../media/cd2/19.mp3"/>
+	</par>
+  </body>
+</smil>

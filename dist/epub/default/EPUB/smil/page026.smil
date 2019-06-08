@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- the theory -->
+      <text src="../contents/Page26.xhtml#word1"/>
+      <audio clipBegin="0:00:04.08" clipEnd="0:00:10.12" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- wow.so all  -->
+      <text src="../contents/Page26.xhtml#word2"/>
+      <audio clipBegin="0:00:10.12" clipEnd="0:00:14.32" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- darwin's grandfather  -->
+      <text src="../contents/Page26.xhtml#word3"/>
+      <audio clipBegin="0:00:14.32" clipEnd="0:00:22.10" src="../media/cd1/09.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  i can't believe -->
+      <text src="../contents/Page26.xhtml#word4"/>
+      <audio clipBegin="0:00:22.10" clipEnd="0:00:25.20" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   even though -->
+      <text src="../contents/Page26.xhtml#word5"/>
+      <audio clipBegin="0:00:25.20" clipEnd="0:00:36.88" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  if only grandpa -->
+      <text src="../contents/Page26.xhtml#word6"/>
+      <audio clipBegin="0:00:36.88" clipEnd="0:00:42.44" src="../media/cd1/09.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  eok! -->
+      <text src="../contents/Page26.xhtml#word7"/>
+      <audio clipBegin="0:00:42.44" clipEnd="0:00:44.40" src="../media/cd1/09.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  a book had been -->
+      <text src="../contents/Page154.xhtml#word1"/>
+      <audio clipBegin="0:00:03.78" clipEnd="0:00:14.96" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  have you seen -->
+      <text src="../contents/Page154.xhtml#word2"/>
+      <audio clipBegin="0:00:14.96" clipEnd="0:00:19.76" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  the title alone -->
+      <text src="../contents/Page154.xhtml#word3"/>
+      <audio clipBegin="0:00:19.76" clipEnd="0:00:22.58" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- no -->
+      <text src="../contents/Page154.xhtml#word4"/>
+      <audio clipBegin="0:00:22.58" clipEnd="0:00:24.04" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- it only -->
+      <text src="../contents/Page154.xhtml#word5"/>
+      <audio clipBegin="0:00:24.04" clipEnd="0:00:31.88" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- the author -->
+      <text src="../contents/Page154.xhtml#word6"/>
+      <audio clipBegin="0:00:31.88" clipEnd="0:00:36.46" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- either way -->
+      <text src="../contents/Page154.xhtml#word7"/>
+      <audio clipBegin="0:00:36.46" clipEnd="0:00:41.28" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- even sedgwick -->
+      <text src="../contents/Page154.xhtml#word8"/>
+      <audio clipBegin="0:00:41.28" clipEnd="0:00:44.40" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- sedwick did -->
+      <text src="../contents/Page154.xhtml#word9"/>
+      <audio clipBegin="0:00:44.40" clipEnd="0:00:46.34" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- even i could -->
+      <text src="../contents/Page154.xhtml#word10"/>
+      <audio clipBegin="0:00:46.34" clipEnd="0:00:51.24" src="../media/cd2/21.mp3"/>
+	</par>
+  </body>
+</smil>

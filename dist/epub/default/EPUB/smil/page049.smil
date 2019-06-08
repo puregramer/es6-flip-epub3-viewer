@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- it's from -->
+      <text src="../contents/Page49.xhtml#word1"/>
+      <audio clipBegin="0:00:35.18" clipEnd="0:00:37.74" src="../media/cd1/20.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- charles  -->
+      <text src="../contents/Page49.xhtml#word2"/>
+      <audio clipBegin="0:00:37.74" clipEnd="0:00:41.84" src="../media/cd1/20.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  however -->
+      <text src="../contents/Page49.xhtml#word3"/>
+      <audio clipBegin="0:00:41.84" clipEnd="0:00:48.84" src="../media/cd1/20.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  oh my -->
+      <text src="../contents/Page49.xhtml#word4"/>
+      <audio clipBegin="0:00:48.84" clipEnd="0:00:50.48" src="../media/cd1/20.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   i believe you are -->
+      <text src="../contents/Page49.xhtml#word5"/>
+      <audio clipBegin="0:00:50.48" clipEnd="0:00:56.90" src="../media/cd1/20.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i would -->
+      <text src="../contents/Page49.xhtml#word6"/>
+      <audio clipBegin="0:00:56.90" clipEnd="0:01:04.64" src="../media/cd1/20.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  a naturalis -->
+      <text src="../contents/Page49.xhtml#word7"/>
+      <audio clipBegin="0:01:04.64" clipEnd="0:01:06.76" src="../media/cd1/20.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

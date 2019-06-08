@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- i'll be -->
+      <text src="../contents/Page51.xhtml#word1"/>
+      <audio clipBegin="0:00:38.84" clipEnd="0:00:42.86" src="../media/cd1/21.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- that's even more  -->
+      <text src="../contents/Page51.xhtml#word2"/>
+      <audio clipBegin="0:00:42.86" clipEnd="0:00:45.42" src="../media/cd1/21.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  and they -->
+      <text src="../contents/Page51.xhtml#word3"/>
+      <audio clipBegin="0:00:45.42" clipEnd="0:00:52.48" src="../media/cd1/21.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  oh boy -->
+      <text src="../contents/Page51.xhtml#word4"/>
+      <audio clipBegin="0:00:52.48" clipEnd="0:00:53.90" src="../media/cd1/21.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   i'm sure -->
+      <text src="../contents/Page51.xhtml#word5"/>
+      <audio clipBegin="0:00:53.90" clipEnd="0:00:57.24" src="../media/cd1/21.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  if there was -->
+      <text src="../contents/Page51.xhtml#word6"/>
+      <audio clipBegin="0:00:57.24" clipEnd="0:01:05.24" src="../media/cd1/21.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  there's -->
+      <text src="../contents/Page51.xhtml#word7"/>
+      <audio clipBegin="0:01:05.24" clipEnd="0:01:09.28" src="../media/cd1/21.mp3"/>
+	</par>
+  </body>
+</smil>

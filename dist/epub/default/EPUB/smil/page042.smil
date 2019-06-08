@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- okay, it's -->
+      <text src="../contents/Page42.xhtml#word1"/>
+      <audio clipBegin="0:00:04.22" clipEnd="0:00:08.46" src="../media/cd1/17.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- charles! what  -->
+      <text src="../contents/Page42.xhtml#word2"/>
+      <audio clipBegin="0:00:08.46" clipEnd="0:00:10.84" src="../media/cd1/17.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  yuck -->
+      <text src="../contents/Page42.xhtml#word3"/>
+      <audio clipBegin="0:00:10.84" clipEnd="0:00:15.24" src="../media/cd1/17.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  oh mt, hte juice -->
+      <text src="../contents/Page42.xhtml#word4"/>
+      <audio clipBegin="0:00:15.24" clipEnd="0:00:19.36" src="../media/cd1/17.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   oh! ptooey -->
+      <text src="../contents/Page42.xhtml#word5"/>
+      <audio clipBegin="0:00:19.36" clipEnd="0:00:21.34" src="../media/cd1/17.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  good riddance -->
+      <text src="../contents/Page42.xhtml#word6"/>
+      <audio clipBegin="0:00:21.34" clipEnd="0:00:24.32" src="../media/cd1/17.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  what you saw -->
+      <text src="../contents/Page42.xhtml#word7"/>
+      <audio clipBegin="0:00:24.32" clipEnd="0:00:27.92" src="../media/cd1/17.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  really -->
+      <text src="../contents/Page42.xhtml#word8"/>
+      <audio clipBegin="0:00:27.92" clipEnd="0:00:29.82" src="../media/cd1/17.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  it was a -->
+      <text src="../contents/Page42.xhtml#word9"/>
+      <audio clipBegin="0:00:29.82" clipEnd="0:00:34.84" src="../media/cd1/17.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  hmm -->
+      <text src="../contents/Page42.xhtml#word10"/>
+      <audio clipBegin="0:00:34.84" clipEnd="0:00:37.54" src="../media/cd1/17.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   charles -->
+      <text src="../contents/Page83.xhtml#word1"/>
+      <audio clipBegin="0:00:41.88" clipEnd="0:00:43.00" src="../media/cd1/37.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- professor  -->
+      <text src="../contents/Page83.xhtml#word2"/>
+      <audio clipBegin="0:00:43.00" clipEnd="0:00:43.94" src="../media/cd1/37.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- i've decided -->
+      <text src="../contents/Page83.xhtml#word3"/>
+      <audio clipBegin="0:00:43.94" clipEnd="0:00:46.12" src="../media/cd1/37.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  what? -->
+      <text src="../contents/Page83.xhtml#word4"/>
+      <audio clipBegin="0:00:46.12" clipEnd="0:00:46.90" src="../media/cd1/37.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  without -->
+      <text src="../contents/Page83.xhtml#word5"/>
+      <audio clipBegin="0:00:46.90" clipEnd="0:00:52.54" src="../media/cd1/37.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  well, they -->
+      <text src="../contents/Page83.xhtml#word6"/>
+      <audio clipBegin="0:00:52.54" clipEnd="0:00:58.58" src="../media/cd1/37.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i'm naming -->
+      <text src="../contents/Page83.xhtml#word7"/>
+      <audio clipBegin="0:00:58.58" clipEnd="0:01:01.52" src="../media/cd1/37.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  professor -->
+      <text src="../contents/Page83.xhtml#word8"/>
+      <audio clipBegin="0:01:01.52" clipEnd="0:01:02.64" src="../media/cd1/37.mp3"/>
+	</par>
+	<par id="id9">
+      <!--   with the -->
+      <text src="../contents/Page83.xhtml#word9"/>
+      <audio clipBegin="0:01:02.64" clipEnd="0:01:08.32" src="../media/cd1/37.mp3"/>
+	</par>
+	<par id="id10">
+      <!--   i have a -->
+      <text src="../contents/Page83.xhtml#word10"/>
+      <audio clipBegin="0:01:08.32" clipEnd="0:01:11.10" src="../media/cd1/37.mp3"/>
+	</par>
+	<par id="id11">
+      <!--   on july -->
+      <text src="../contents/Page83.xhtml#word11"/>
+      <audio clipBegin="0:01:11.10" clipEnd="0:01:17.80" src="../media/cd1/37.mp3"/>
+	</par>
+  </body>
+</smil>

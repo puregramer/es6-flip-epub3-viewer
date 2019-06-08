@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  darwin became -->
+      <text src="../contents/Page141.xhtml#word1"/>
+      <audio clipBegin="0:00:42.10" clipEnd="0:00:49.34" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  the south american -->
+      <text src="../contents/Page141.xhtml#word2"/>
+      <audio clipBegin="0:00:49.34" clipEnd="0:00:52.30" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  he presented -->
+      <text src="../contents/Page141.xhtml#word3"/>
+      <audio clipBegin="0:00:52.30" clipEnd="0:01:06.28" src="../media/cd2/14.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- i knew for -->
+      <text src="../contents/Page141.xhtml#word4"/>
+      <audio clipBegin="0:01:06.28" clipEnd="0:01:13.52" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- darwin was -->
+      <text src="../contents/Page141.xhtml#word5"/>
+      <audio clipBegin="0:01:13.52" clipEnd="0:01:20.52" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- your talk -->
+      <text src="../contents/Page141.xhtml#word6"/>
+      <audio clipBegin="0:01:20.52" clipEnd="0:01:25.96" src="../media/cd2/14.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- i thought -->
+      <text src="../contents/Page141.xhtml#word7"/>
+      <audio clipBegin="0:01:25.96" clipEnd="0:01:33.50" src="../media/cd2/14.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- i started that -->
+      <text src="../contents/Page141.xhtml#word8"/>
+      <audio clipBegin="0:01:33.50" clipEnd="0:01:39.80" src="../media/cd2/14.mp3"/>
+	</par>
+  </body>
+</smil>

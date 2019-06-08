@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  no matter -->
+      <text src="../contents/Page64.xhtml#word1"/>
+      <audio clipBegin="0:00:04.12" clipEnd="0:00:08.64" src="../media/cd1/28.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- oh! there's  -->
+      <text src="../contents/Page64.xhtml#word2"/>
+      <audio clipBegin="0:00:08.64" clipEnd="0:00:10.56" src="../media/cd1/28.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  sure -->
+      <text src="../contents/Page64.xhtml#word3"/>
+      <audio clipBegin="0:00:10.56" clipEnd="0:00:12.76" src="../media/cd1/28.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  after -->
+      <text src="../contents/Page64.xhtml#word4"/>
+      <audio clipBegin="0:00:12.76" clipEnd="0:00:21.42" src="../media/cd1/28.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   wow. it tries -->
+      <text src="../contents/Page64.xhtml#word5"/>
+      <audio clipBegin="0:00:21.42" clipEnd="0:00:26.60" src="../media/cd1/28.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i bet -->
+      <text src="../contents/Page64.xhtml#word6"/>
+      <audio clipBegin="0:00:26.60" clipEnd="0:00:30.48" src="../media/cd1/28.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  now where -->
+      <text src="../contents/Page64.xhtml#word7"/>
+      <audio clipBegin="0:00:30.48" clipEnd="0:00:32.84" src="../media/cd1/28.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  splaat -->
+      <text src="../contents/Page64.xhtml#word8"/>
+      <audio clipBegin="0:00:32.84" clipEnd="0:00:34.28" src="../media/cd1/28.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  what's this -->
+      <text src="../contents/Page64.xhtml#word9"/>
+      <audio clipBegin="0:00:34.28" clipEnd="0:00:35.70" src="../media/cd1/28.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- haha -->
+      <text src="../contents/Page64.xhtml#word10"/>
+      <audio clipBegin="0:00:35.70" clipEnd="0:00:37.12" src="../media/cd1/28.mp3"/>
+	</par>
+  </body>
+</smil>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  darwin spent -->
+      <text src="../contents/Page128.xhtml#word1"/>
+      <audio clipBegin="0:00:03.56" clipEnd="0:00:13.44" src="../media/cd2/08.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  it's hard to tell -->
+      <text src="../contents/Page128.xhtml#word2"/>
+      <audio clipBegin="0:00:13.44" clipEnd="0:00:17.18" src="../media/cd2/08.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  there's coral -->
+      <text src="../contents/Page128.xhtml#word3"/>
+      <audio clipBegin="0:00:17.18" clipEnd="0:00:21.02" src="../media/cd2/08.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- i see my theory -->
+      <text src="../contents/Page128.xhtml#word4"/>
+      <audio clipBegin="0:00:21.02" clipEnd="0:00:25.18" src="../media/cd2/08.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- the beagle -->
+      <text src="../contents/Page128.xhtml#word5"/>
+      <audio clipBegin="0:00:25.18" clipEnd="0:00:34.12" src="../media/cd2/08.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- it's from -->
+      <text src="../contents/Page128.xhtml#word6"/>
+      <audio clipBegin="0:00:34.12" clipEnd="0:00:35.68" src="../media/cd2/08.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- professor -->
+      <text src="../contents/Page128.xhtml#word7"/>
+      <audio clipBegin="0:00:35.68" clipEnd="0:00:40.76" src="../media/cd2/08.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- oh my -->
+      <text src="../contents/Page128.xhtml#word8"/>
+      <audio clipBegin="0:00:40.76" clipEnd="0:00:41.78" src="../media/cd2/08.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  all the top -->
+      <text src="../contents/Page128.xhtml#word9"/>
+      <audio clipBegin="0:00:41.78" clipEnd="0:00:48.98" src="../media/cd2/08.mp3"/>
+	</par>
+  </body>
+</smil>

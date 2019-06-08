@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   for the -->
+      <text src="../contents/Page86.xhtml#word1"/>
+      <audio clipBegin="0:00:04.12" clipEnd="0:00:13.06" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- we will be  -->
+      <text src="../contents/Page86.xhtml#word2"/>
+      <audio clipBegin="0:00:13.06" clipEnd="0:00:20.34" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- darwin -->
+      <text src="../contents/Page86.xhtml#word3"/>
+      <audio clipBegin="0:00:20.34" clipEnd="0:00:26.30" src="../media/cd1/39.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  fx -->
+      <text src="../contents/Page86.xhtml#word4"/>
+      <audio clipBegin="0:00:26.30" clipEnd="0:00:27.82" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  this place -->
+      <text src="../contents/Page86.xhtml#word5"/>
+      <audio clipBegin="0:00:27.82" clipEnd="0:00:33.70" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  why did -->
+      <text src="../contents/Page86.xhtml#word6"/>
+      <audio clipBegin="0:00:33.70" clipEnd="0:00:35.80" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i'll need -->
+      <text src="../contents/Page86.xhtml#word7"/>
+      <audio clipBegin="0:00:35.80" clipEnd="0:00:38.62" src="../media/cd1/39.mp3"/>
+    </par>
+	<par id="id8">
+      <!-- pay -->
+      <text src="../contents/Page86.xhtml#word8"/>
+      <audio clipBegin="0:00:38.62" clipEnd="0:00:40.32" src="../media/cd1/39.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  just leave -->
+      <text src="../contents/Page86.xhtml#word9"/>
+      <audio clipBegin="0:00:40.32" clipEnd="0:00:44.24" src="../media/cd1/39.mp3"/>
+	</par>
+  </body>
+</smil>

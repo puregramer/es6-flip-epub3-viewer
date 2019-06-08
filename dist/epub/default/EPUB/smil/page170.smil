@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  pack it in -->
+      <text src="../contents/Page170.xhtml#word1"/>
+      <audio clipBegin="0:00:03.28" clipEnd="0:00:06.64" src="../media/cd2/29.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  darwin's the most -->
+      <text src="../contents/Page170.xhtml#word2"/>
+      <audio clipBegin="0:00:06.64" clipEnd="0:00:09.96" src="../media/cd2/29.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin's supporters -->
+      <text src="../contents/Page170.xhtml#word3"/>
+      <audio clipBegin="0:00:09.96" clipEnd="0:00:15.62" src="../media/cd2/29.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- huxeley evenn conined a now -->
+      <text src="../contents/Page170.xhtml#word4"/>
+      <audio clipBegin="0:00:15.62" clipEnd="0:00:22.28" src="../media/cd2/29.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  this thory -->
+      <text src="../contents/Page170.xhtml#word5"/>
+      <audio clipBegin="0:00:22.28" clipEnd="0:00:27.86" src="../media/cd2/29.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- in 1862 -->
+      <text src="../contents/Page170.xhtml#word6"/>
+      <audio clipBegin="0:00:27.86" clipEnd="0:00:36.84" src="../media/cd2/29.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- it's about how -->
+      <text src="../contents/Page170.xhtml#word7"/>
+      <audio clipBegin="0:00:36.84" clipEnd="0:00:42.56" src="../media/cd2/29.mp3"/>
+	</par>
+  </body>
+</smil>

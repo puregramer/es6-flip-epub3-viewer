@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  do you mean to say -->
+      <text src="../contents/Page139.xhtml#word1"/>
+      <audio clipBegin="0:00:33.36" clipEnd="0:00:38.20" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  yes -->
+      <text src="../contents/Page139.xhtml#word2"/>
+      <audio clipBegin="0:00:38.20" clipEnd="0:00:39.54" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  could it be -->
+      <text src="../contents/Page139.xhtml#word3"/>
+      <audio clipBegin="0:00:39.54" clipEnd="0:00:41.38" src="../media/cd2/13.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- perhaps over a -->
+      <text src="../contents/Page139.xhtml#word4"/>
+      <audio clipBegin="0:00:41.38" clipEnd="0:00:52.64" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- that means that this -->
+      <text src="../contents/Page139.xhtml#word5"/>
+      <audio clipBegin="0:00:52.64" clipEnd="0:00:58.38" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- could you let -->
+      <text src="../contents/Page139.xhtml#word6"/>
+      <audio clipBegin="0:00:58.38" clipEnd="0:00:59.90" src="../media/cd2/13.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- oh -->
+      <text src="../contents/Page139.xhtml#word7"/>
+      <audio clipBegin="0:00:59.90" clipEnd="0:01:00.66" src="../media/cd2/13.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- so-sorry -->
+      <text src="../contents/Page139.xhtml#word8"/>
+      <audio clipBegin="0:01:00.66" clipEnd="0:01:02.36" src="../media/cd2/13.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  ahem -->
+      <text src="../contents/Page139.xhtml#word9"/>
+      <audio clipBegin="0:01:02.36" clipEnd="0:01:03.94" src="../media/cd2/13.mp3"/>
+	</par>
+  </body>
+</smil>

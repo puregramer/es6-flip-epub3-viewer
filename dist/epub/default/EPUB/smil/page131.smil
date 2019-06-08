@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  it doesn't look -->
+      <text src="../contents/Page131.xhtml#word1"/>
+      <audio clipBegin="0:00:22.24" clipEnd="0:00:24.32" src="../media/cd2/09.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  i knew father -->
+      <text src="../contents/Page131.xhtml#word2"/>
+      <audio clipBegin="0:00:24.32" clipEnd="0:00:27.16" src="../media/cd2/09.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  don't you -->
+      <text src="../contents/Page131.xhtml#word3"/>
+      <audio clipBegin="0:00:27.16" clipEnd="0:00:31.10" src="../media/cd2/09.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- father -->
+      <text src="../contents/Page131.xhtml#word4"/>
+      <audio clipBegin="0:00:31.10" clipEnd="0:00:33.30" src="../media/cd2/09.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- charles -->
+      <text src="../contents/Page131.xhtml#word5"/>
+      <audio clipBegin="0:00:33.30" clipEnd="0:00:34.52" src="../media/cd2/09.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- oh my, it really -->
+      <text src="../contents/Page131.xhtml#word6"/>
+      <audio clipBegin="0:00:34.52" clipEnd="0:00:37.70" src="../media/cd2/09.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- you're finally -->
+      <text src="../contents/Page131.xhtml#word7"/>
+      <audio clipBegin="0:00:37.70" clipEnd="0:00:40.44" src="../media/cd2/09.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- father -->
+      <text src="../contents/Page131.xhtml#word8"/>
+      <audio clipBegin="0:00:40.44" clipEnd="0:00:41.60" src="../media/cd2/09.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  hey, what's that -->
+      <text src="../contents/Page131.xhtml#word9"/>
+      <audio clipBegin="0:00:41.60" clipEnd="0:00:44.96" src="../media/cd2/09.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  it seem to be -->
+      <text src="../contents/Page131.xhtml#word10"/>
+      <audio clipBegin="0:00:44.96" clipEnd="0:00:48.02" src="../media/cd2/09.mp3"/>
+	</par>
+  </body>
+</smil>

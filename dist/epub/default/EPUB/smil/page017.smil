@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- i felt sorry for -->
+      <text src="../contents/Page17.xhtml#word1"/>
+      <audio clipBegin="0:00:38.20" clipEnd="0:00:43.06" src="../media/cd1/04.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- charles.  -->
+      <text src="../contents/Page17.xhtml#word2"/>
+      <audio clipBegin="0:00:43.06" clipEnd="0:00:44.30" src="../media/cd1/04.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- you don't find  -->
+      <text src="../contents/Page17.xhtml#word3"/>
+      <audio clipBegin="0:00:44.30" clipEnd="0:00:47.28" src="../media/cd1/04.mp3"/>
+    </par>
+	 <par id="id4">
+      <!-- nope -->
+      <text src="../contents/Page17.xhtml#word4"/>
+      <audio clipBegin="0:00:47.28" clipEnd="0:00:53.38" src="../media/cd1/04.mp3"/>
+    </par>
+    <par id="id5">
+      <!--  nobody else in our -->
+      <text src="../contents/Page17.xhtml#word5"/>
+      <audio clipBegin="0:00:53.38" clipEnd="0:00:59.72" src="../media/cd1/04.mp3"/>
+    </par>
+	<par id="id6">
+      <!--   from next year -->
+      <text src="../contents/Page17.xhtml#word6"/>
+      <audio clipBegin="0:00:59.72" clipEnd="0:01:03.54" src="../media/cd1/04.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  huh? -->
+      <text src="../contents/Page17.xhtml#word7"/>
+      <audio clipBegin="0:01:03.54" clipEnd="0:01:04.74" src="../media/cd1/04.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  school is not -->
+      <text src="../contents/Page17.xhtml#word8"/>
+      <audio clipBegin="0:01:04.74" clipEnd="0:01:09.36" src="../media/cd1/04.mp3"/>
+	</par>
+  </body>
+</smil>
+

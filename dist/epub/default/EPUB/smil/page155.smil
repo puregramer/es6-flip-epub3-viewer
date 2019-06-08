@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  hooker -->
+      <text src="../contents/Page155.xhtml#word1"/>
+      <audio clipBegin="0:00:51.24" clipEnd="0:01:03.18" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  i also have written -->
+      <text src="../contents/Page155.xhtml#word2"/>
+      <audio clipBegin="0:01:03.18" clipEnd="0:01:12.06" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  i've got to -->
+      <text src="../contents/Page155.xhtml#word3"/>
+      <audio clipBegin="0:01:12.06" clipEnd="0:01:17.04" src="../media/cd2/21.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- kaff kaff -->
+      <text src="../contents/Page155.xhtml#word4"/>
+      <audio clipBegin="0:01:17.04" clipEnd="0:01:18.44" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- at this rate -->
+      <text src="../contents/Page155.xhtml#word5"/>
+      <audio clipBegin="0:01:18.44" clipEnd="0:01:22.56" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- in 1844 -->
+      <text src="../contents/Page155.xhtml#word6"/>
+      <audio clipBegin="0:01:22.56" clipEnd="0:01:31.92" src="../media/cd2/21.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- in case i die -->
+      <text src="../contents/Page155.xhtml#word7"/>
+      <audio clipBegin="0:01:31.92" clipEnd="0:01:36.84" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- how can you -->
+      <text src="../contents/Page155.xhtml#word8"/>
+      <audio clipBegin="0:01:36.84" clipEnd="0:01:38.84" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- dear god -->
+      <text src="../contents/Page155.xhtml#word9"/>
+      <audio clipBegin="0:01:38.84" clipEnd="0:01:40.58" src="../media/cd2/21.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- i wonder what -->
+      <text src="../contents/Page155.xhtml#word10"/>
+      <audio clipBegin="0:01:40.58" clipEnd="0:01:46.48" src="../media/cd2/21.mp3"/>
+	</par>
+  </body>
+</smil>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  it that kind -->
+      <text src="../contents/Page149.xhtml#word1"/>
+      <audio clipBegin="0:00:29.72" clipEnd="0:00:35.94" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  oh -->
+      <text src="../contents/Page149.xhtml#word2"/>
+      <audio clipBegin="0:00:35.94" clipEnd="0:00:37.04" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  looks like someone -->
+      <text src="../contents/Page149.xhtml#word3"/>
+      <audio clipBegin="0:00:37.04" clipEnd="0:00:40.68" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- even this sort -->
+      <text src="../contents/Page149.xhtml#word4"/>
+      <audio clipBegin="0:00:40.68" clipEnd="0:00:46.16" src="../media/cd2/18.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- but the process -->
+      <text src="../contents/Page149.xhtml#word5"/>
+      <audio clipBegin="0:00:46.16" clipEnd="0:00:55.46" src="../media/cd2/18.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- indeed from -->
+      <text src="../contents/Page149.xhtml#word6"/>
+      <audio clipBegin="0:00:55.46" clipEnd="0:00:59.84" src="../media/cd2/18.mp3"/>
+    </par>
+  </body>
+</smil>

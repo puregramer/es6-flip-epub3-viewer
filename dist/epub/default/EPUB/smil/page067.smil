@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+  <par id="id1">
+      <!--  the beagle -->
+      <text src="../contents/Page67.xhtml#word1"/>
+      <audio clipBegin="0:00:39.02" clipEnd="0:00:49.14" src="../media/cd1/29.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- reading  -->
+      <text src="../contents/Page67.xhtml#word2"/>
+      <audio clipBegin="0:00:49.14" clipEnd="0:00:51.18" src="../media/cd1/29.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  yes. the -->
+      <text src="../contents/Page67.xhtml#word3"/>
+      <audio clipBegin="0:00:51.18" clipEnd="0:00:57.90" src="../media/cd1/29.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  pardon -->
+      <text src="../contents/Page67.xhtml#word4"/>
+      <audio clipBegin="0:00:57.90" clipEnd="0:00:59.04" src="../media/cd1/29.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   charles is  -->
+      <text src="../contents/Page67.xhtml#word5"/>
+      <audio clipBegin="0:00:59.04" clipEnd="0:01:03.62" src="../media/cd1/29.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  once something -->
+      <text src="../contents/Page67.xhtml#word6"/>
+      <audio clipBegin="0:01:03.62" clipEnd="0:01:08.84" src="../media/cd1/29.mp3"/>
+    </par>
+  </body>
+</smil>

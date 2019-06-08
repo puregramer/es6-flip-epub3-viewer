@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  the normal -->
+      <text src="../contents/Page160.xhtml#word1"/>
+      <audio clipBegin="0:00:03.54" clipEnd="0:00:11.88" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  the surviving -->
+      <text src="../contents/Page160.xhtml#word2"/>
+      <audio clipBegin="0:00:11.88" clipEnd="0:00:19.88" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  this means -->
+      <text src="../contents/Page160.xhtml#word3"/>
+      <audio clipBegin="0:00:19.88" clipEnd="0:00:26.56" src="../media/cd2/24.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- yes. that's it -->
+      <text src="../contents/Page160.xhtml#word4"/>
+      <audio clipBegin="0:00:26.56" clipEnd="0:00:28.44" src="../media/cd2/24.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- i've finally -->
+      <text src="../contents/Page160.xhtml#word5"/>
+      <audio clipBegin="0:00:28.44" clipEnd="0:00:30.86" src="../media/cd2/24.mp3"/>
+    </par>
+  </body>
+</smil>

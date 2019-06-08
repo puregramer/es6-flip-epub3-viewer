@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  chapter 7 -->
+      <text src="../contents/Page150.xhtml#word1"/>
+      <audio clipBegin="0:00:05.26" clipEnd="0:00:12.44" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  thanks, emma -->
+      <text src="../contents/Page150.xhtml#word2"/>
+      <audio clipBegin="0:00:12.44" clipEnd="0:00:13.68" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  looks like -->
+      <text src="../contents/Page150.xhtml#word3"/>
+      <audio clipBegin="0:00:13.68" clipEnd="0:00:16.10" src="../media/cd2/19.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- aah -->
+      <text src="../contents/Page150.xhtml#word4"/>
+      <audio clipBegin="0:00:16.10" clipEnd="0:00:17.86" src="../media/cd2/19.mp3"/>
+    </par>
+  </body>
+</smil>

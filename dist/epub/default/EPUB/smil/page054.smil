@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!--  FX -->
+      <text src="../contents/Page54.xhtml#word1"/>
+      <audio clipBegin="0:00:03.82" clipEnd="0:00:09.06" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id2">
+      <!-- at this -->
+      <text src="../contents/Page54.xhtml#word2"/>
+      <audio clipBegin="0:00:09.06" clipEnd="0:00:16.78" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- we're finally  -->
+      <text src="../contents/Page54.xhtml#word3"/>
+      <audio clipBegin="0:00:16.78" clipEnd="0:00:18.78" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  there -->
+      <text src="../contents/Page54.xhtml#word4"/>
+      <audio clipBegin="0:00:18.78" clipEnd="0:00:28.80" src="../media/cd1/23.mp3"/>
+    </par>
+    <par id="id5">
+      <!--  some of you -->
+      <text src="../contents/Page54.xhtml#word5"/>
+      <audio clipBegin="0:00:28.80" clipEnd="0:00:33.38" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id6">
+      <!--   yes sir -->
+      <text src="../contents/Page54.xhtml#word6"/>
+      <audio clipBegin="0:00:33.38" clipEnd="0:00:34.94" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  darwin -->
+      <text src="../contents/Page54.xhtml#word7"/>
+      <audio clipBegin="0:00:34.94" clipEnd="0:00:36.52" src="../media/cd1/23.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  are you okay -->
+      <text src="../contents/Page54.xhtml#word8"/>
+      <audio clipBegin="0:00:36.52" clipEnd="0:00:38.52" src="../media/cd1/23.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  you'll probably -->
+      <text src="../contents/Page54.xhtml#word9"/>
+      <audio clipBegin="0:00:38.52" clipEnd="0:00:41.00" src="../media/cd1/23.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  gulp -->
+      <text src="../contents/Page54.xhtml#word10"/>
+      <audio clipBegin="0:00:41.00" clipEnd="0:00:42.18" src="../media/cd1/23.mp3"/>
+	</par>
+  </body>
+</smil>

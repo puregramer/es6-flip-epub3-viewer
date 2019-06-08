@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  you see -->
+      <text src="../contents/Page132.xhtml#word1"/>
+      <audio clipBegin="0:00:03.46" clipEnd="0:00:07.20" src="../media/cd2/10.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  what -->
+      <text src="../contents/Page132.xhtml#word2"/>
+      <audio clipBegin="0:00:07.20" clipEnd="0:00:08.82" src="../media/cd2/10.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  follow me you're -->
+      <text src="../contents/Page132.xhtml#word3"/>
+      <audio clipBegin="0:00:08.82" clipEnd="0:00:11.40" src="../media/cd2/10.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- ouch -->
+      <text src="../contents/Page132.xhtml#word4"/>
+      <audio clipBegin="0:00:11.40" clipEnd="0:00:12.94" src="../media/cd2/10.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- i can wash myself -->
+      <text src="../contents/Page132.xhtml#word5"/>
+      <audio clipBegin="0:00:12.94" clipEnd="0:00:16.38" src="../media/cd2/10.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- hahaha -->
+      <text src="../contents/Page132.xhtml#word6"/>
+      <audio clipBegin="0:00:16.38" clipEnd="0:00:19.00" src="../media/cd2/10.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- dawin was extremely -->
+      <text src="../contents/Page132.xhtml#word7"/>
+      <audio clipBegin="0:00:19.00" clipEnd="0:00:23.58" src="../media/cd2/10.mp3"/>
+    </par>
+	<par id="id8">
+      <!-- boy, when -->
+      <text src="../contents/Page132.xhtml#word8"/>
+      <audio clipBegin="0:00:23.58" clipEnd="0:00:27.18" src="../media/cd2/10.mp3"/>
+	</par>
+	<par id="id9">
+      <!-- he had to -->
+      <text src="../contents/Page132.xhtml#word9"/>
+      <audio clipBegin="0:00:27.18" clipEnd="0:00:37.30" src="../media/cd2/10.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  professor -->
+      <text src="../contents/Page132.xhtml#word10"/>
+      <audio clipBegin="0:00:37.30" clipEnd="0:00:39.74" src="../media/cd2/10.mp3"/>
+	</par>
+	<par id="id11">
+      <!--  i've brought -->
+      <text src="../contents/Page132.xhtml#word11"/>
+      <audio clipBegin="0:00:39.74" clipEnd="0:00:44.86" src="../media/cd2/10.mp3"/>
+	</par>
+  </body>
+</smil>

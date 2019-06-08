@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  the monkey -->
+      <text src="../contents/Page159.xhtml#word1"/>
+      <audio clipBegin="0:00:28.22" clipEnd="0:00:36.56" src="../media/cd2/23.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  therefore -->
+      <text src="../contents/Page159.xhtml#word2"/>
+      <audio clipBegin="0:00:36.56" clipEnd="0:00:46.98" src="../media/cd2/23.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  a second variety -->
+      <text src="../contents/Page159.xhtml#word3"/>
+      <audio clipBegin="0:00:46.98" clipEnd="0:00:53.76" src="../media/cd2/23.mp3"/>
+    </par>
+  </body>
+</smil>

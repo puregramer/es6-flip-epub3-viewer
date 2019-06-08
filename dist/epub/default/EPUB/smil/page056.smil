@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!--  then -->
+      <text src="../contents/Page56.xhtml#word1"/>
+      <audio clipBegin="0:00:04.40" clipEnd="0:00:14.44" src="../media/cd1/24.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- sounds like  -->
+      <text src="../contents/Page56.xhtml#word2"/>
+      <audio clipBegin="0:00:14.44" clipEnd="0:00:19.40" src="../media/cd1/24.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  this -->
+      <text src="../contents/Page56.xhtml#word3"/>
+      <audio clipBegin="0:00:19.40" clipEnd="0:00:25.38" src="../media/cd1/24.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  yes sir -->
+      <text src="../contents/Page56.xhtml#word4"/>
+      <audio clipBegin="0:00:25.38" clipEnd="0:00:26.84" src="../media/cd1/24.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   are all -->
+      <text src="../contents/Page56.xhtml#word5"/>
+      <audio clipBegin="0:00:26.84" clipEnd="0:00:31.02" src="../media/cd1/24.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  we're fine -->
+      <text src="../contents/Page56.xhtml#word6"/>
+      <audio clipBegin="0:00:31.02" clipEnd="0:00:36.94" src="../media/cd1/24.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  i've -->
+      <text src="../contents/Page56.xhtml#word7"/>
+      <audio clipBegin="0:00:36.94" clipEnd="0:00:40.86" src="../media/cd1/24.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  what's -->
+      <text src="../contents/Page56.xhtml#word8"/>
+      <audio clipBegin="0:00:40.86" clipEnd="0:00:49.04" src="../media/cd1/24.mp3"/>
+	</par>
+  </body>
+</smil>

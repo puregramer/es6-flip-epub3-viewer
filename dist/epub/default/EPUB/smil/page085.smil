@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   his -->
+      <text src="../contents/Page85.xhtml#word1"/>
+      <audio clipBegin="0:00:39.48" clipEnd="0:00:45.02" src="../media/cd1/38.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- indeed  -->
+      <text src="../contents/Page85.xhtml#word2"/>
+      <audio clipBegin="0:00:45.02" clipEnd="0:00:48.60" src="../media/cd1/38.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- well, if -->
+      <text src="../contents/Page85.xhtml#word3"/>
+      <audio clipBegin="0:00:48.60" clipEnd="0:00:52.28" src="../media/cd1/38.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  se-sedgwick -->
+      <text src="../contents/Page85.xhtml#word4"/>
+      <audio clipBegin="0:00:52.28" clipEnd="0:00:54.62" src="../media/cd1/38.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  henslow -->
+      <text src="../contents/Page85.xhtml#word5"/>
+      <audio clipBegin="0:00:54.62" clipEnd="0:00:56.98" src="../media/cd1/38.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i think -->
+      <text src="../contents/Page85.xhtml#word6"/>
+      <audio clipBegin="0:00:56.98" clipEnd="0:01:00.22" src="../media/cd1/38.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- charles -->
+      <text src="../contents/Page85.xhtml#word7"/>
+      <audio clipBegin="0:01:00.22" clipEnd="0:01:04.42" src="../media/cd1/38.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  aagghh -->
+      <text src="../contents/Page85.xhtml#word8"/>
+      <audio clipBegin="0:01:04.42" clipEnd="0:01:06.50" src="../media/cd1/38.mp3"/>
+	</par>
+	<par id="id9">
+      <!--   i give up -->
+      <text src="../contents/Page85.xhtml#word9"/>
+      <audio clipBegin="0:01:06.50" clipEnd="0:01:10.58" src="../media/cd1/38.mp3"/>
+	</par>
+	<par id="id10">
+      <!--   the beagle headed -->
+      <text src="../contents/Page85.xhtml#word10"/>
+      <audio clipBegin="0:01:10.58" clipEnd="0:01:17.76" src="../media/cd1/38.mp3"/>
+	</par>
+	<par id="id11">
+      <!--   whew -->
+      <text src="../contents/Page85.xhtml#word11"/>
+      <audio clipBegin="0:01:17.76" clipEnd="0:01:20.76" src="../media/cd1/38.mp3"/>
+	</par>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   as september -->
+      <text src="../contents/Page106.xhtml#word1"/>
+      <audio clipBegin="0:00:04.22" clipEnd="0:00:12.72" src="../media/cd1/49.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- you're so -->
+      <text src="../contents/Page106.xhtml#word2"/>
+      <audio clipBegin="0:00:12.72" clipEnd="0:00:15.24" src="../media/cd1/49.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  feel free -->
+      <text src="../contents/Page106.xhtml#word3"/>
+      <audio clipBegin="0:00:15.24" clipEnd="0:00:18.28" src="../media/cd1/49.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- aaagghh -->
+      <text src="../contents/Page106.xhtml#word4"/>
+      <audio clipBegin="0:00:18.28" clipEnd="0:00:20.24" src="../media/cd1/49.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- charles -->
+      <text src="../contents/Page106.xhtml#word5"/>
+      <audio clipBegin="0:00:20.24" clipEnd="0:00:21.66" src="../media/cd1/49.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- my stomach -->
+      <text src="../contents/Page106.xhtml#word6"/>
+      <audio clipBegin="0:00:21.66" clipEnd="0:00:24.46" src="../media/cd1/49.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- oh dear -->
+      <text src="../contents/Page106.xhtml#word7"/>
+      <audio clipBegin="0:00:24.46" clipEnd="0:00:30.78" src="../media/cd1/49.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  some bad -->
+      <text src="../contents/Page106.xhtml#word8"/>
+      <audio clipBegin="0:00:30.78" clipEnd="0:00:36.44" src="../media/cd1/49.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  i'm sorry -->
+      <text src="../contents/Page106.xhtml#word9"/>
+      <audio clipBegin="0:00:36.44" clipEnd="0:00:38.84" src="../media/cd1/49.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  you were -->
+      <text src="../contents/Page106.xhtml#word10"/>
+      <audio clipBegin="0:00:38.84" clipEnd="0:00:43.32" src="../media/cd1/49.mp3"/>
+	</par>
+  </body>
+</smil>

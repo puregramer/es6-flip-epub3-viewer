@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--   the beagle -->
+      <text src="../contents/Page100.xhtml#word1"/>
+      <audio clipBegin="0:00:04.02" clipEnd="0:00:08.34" src="../media/cd1/46.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- we'll need  -->
+      <text src="../contents/Page100.xhtml#word2"/>
+      <audio clipBegin="0:00:08.34" clipEnd="0:00:10.96" src="../media/cd1/46.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- yes sir -->
+      <text src="../contents/Page100.xhtml#word3"/>
+      <audio clipBegin="0:00:10.96" clipEnd="0:00:12.56" src="../media/cd1/46.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  after -->
+      <text src="../contents/Page100.xhtml#word4"/>
+      <audio clipBegin="0:00:12.56" clipEnd="0:00:21.08" src="../media/cd1/46.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  after the beagle -->
+      <text src="../contents/Page100.xhtml#word5"/>
+      <audio clipBegin="0:00:21.08" clipEnd="0:00:27.72" src="../media/cd1/46.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  as soon as you -->
+      <text src="../contents/Page100.xhtml#word6"/>
+      <audio clipBegin="0:00:27.72" clipEnd="0:00:32.16" src="../media/cd1/46.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- i defended -->
+      <text src="../contents/Page100.xhtml#word7"/>
+      <audio clipBegin="0:00:32.16" clipEnd="0:00:37.62" src="../media/cd1/46.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  unbelievable -->
+      <text src="../contents/Page100.xhtml#word8"/>
+      <audio clipBegin="0:00:37.62" clipEnd="0:00:39.50" src="../media/cd1/46.mp3"/>
+	</par>
+  </body>
+</smil>

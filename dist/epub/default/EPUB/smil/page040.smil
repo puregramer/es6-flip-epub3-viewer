@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- darwin's -->
+      <text src="../contents/Page40.xhtml#word1"/>
+      <audio clipBegin="0:00:04.68" clipEnd="0:00:12.08" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- this is  -->
+      <text src="../contents/Page40.xhtml#word2"/>
+      <audio clipBegin="0:00:12.08" clipEnd="0:00:15.80" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  please -->
+      <text src="../contents/Page40.xhtml#word3"/>
+      <audio clipBegin="0:00:15.80" clipEnd="0:00:20.52" src="../media/cd1/16.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  pardon -->
+      <text src="../contents/Page40.xhtml#word4"/>
+      <audio clipBegin="0:00:20.52" clipEnd="0:00:22.22" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   due to -->
+      <text src="../contents/Page40.xhtml#word5"/>
+      <audio clipBegin="0:00:22.22" clipEnd="0:00:31.90" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  but professor -->
+      <text src="../contents/Page40.xhtml#word6"/>
+      <audio clipBegin="0:00:31.90" clipEnd="0:00:36.36" src="../media/cd1/16.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  do you think -->
+      <text src="../contents/Page40.xhtml#word7"/>
+      <audio clipBegin="0:00:36.36" clipEnd="0:00:45.64" src="../media/cd1/16.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  charles spent -->
+      <text src="../contents/Page40.xhtml#word8"/>
+      <audio clipBegin="0:00:45.64" clipEnd="0:00:52.02" src="../media/cd1/16.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  so, does that -->
+      <text src="../contents/Page40.xhtml#word9"/>
+      <audio clipBegin="0:00:52.02" clipEnd="0:00:54.78" src="../media/cd1/16.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  no, no, not -->
+      <text src="../contents/Page40.xhtml#word10"/>
+      <audio clipBegin="0:00:54.78" clipEnd="0:00:57.52" src="../media/cd1/16.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

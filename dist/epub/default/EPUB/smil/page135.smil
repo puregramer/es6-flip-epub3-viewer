@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  thanks to your -->
+      <text src="../contents/Page135.xhtml#word1"/>
+      <audio clipBegin="0:00:44.84" clipEnd="0:00:50.32" src="../media/cd2/11.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  the pleasure is all -->
+      <text src="../contents/Page135.xhtml#word2"/>
+      <audio clipBegin="0:00:50.32" clipEnd="0:00:55.34" src="../media/cd2/11.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  he's being -->
+      <text src="../contents/Page135.xhtml#word3"/>
+      <audio clipBegin="0:00:55.34" clipEnd="0:00:57.34" src="../media/cd2/11.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- darwin soon -->
+      <text src="../contents/Page135.xhtml#word4"/>
+      <audio clipBegin="0:00:57.34" clipEnd="0:01:01.62" src="../media/cd2/11.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- thanks for -->
+      <text src="../contents/Page135.xhtml#word5"/>
+      <audio clipBegin="0:01:01.62" clipEnd="0:01:03.30" src="../media/cd2/11.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- you haven't -->
+      <text src="../contents/Page135.xhtml#word6"/>
+      <audio clipBegin="0:01:03.30" clipEnd="0:01:08.24" src="../media/cd2/11.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- there were -->
+      <text src="../contents/Page135.xhtml#word7"/>
+      <audio clipBegin="0:01:08.24" clipEnd="0:01:14.00" src="../media/cd2/11.mp3"/>
+	</par>
+	<par id="id8">
+      <!-- the london -->
+      <text src="../contents/Page135.xhtml#word8"/>
+      <audio clipBegin="0:01:14.00" clipEnd="0:01:19.62" src="../media/cd2/11.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  but i have to -->
+      <text src="../contents/Page135.xhtml#word9"/>
+      <audio clipBegin="0:01:19.62" clipEnd="0:01:23.88" src="../media/cd2/11.mp3"/>
+	</par>
+  </body>
+</smil>

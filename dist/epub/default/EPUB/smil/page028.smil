@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- darwin's father -->
+      <text src="../contents/Page28.xhtml#word1"/>
+      <audio clipBegin="0:00:04.16" clipEnd="0:00:13.72" src="../media/cd1/10.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- how much longer  -->
+      <text src="../contents/Page28.xhtml#word2"/>
+      <audio clipBegin="0:00:13.72" clipEnd="0:00:20.04" src="../media/cd1/10.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- okay  -->
+      <text src="../contents/Page28.xhtml#word3"/>
+      <audio clipBegin="0:00:20.04" clipEnd="0:00:21.52" src="../media/cd1/10.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  after leaving -->
+      <text src="../contents/Page28.xhtml#word4"/>
+      <audio clipBegin="0:00:21.52" clipEnd="0:00:29.62" src="../media/cd1/10.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   please -->
+      <text src="../contents/Page28.xhtml#word5"/>
+      <audio clipBegin="0:00:29.62" clipEnd="0:00:32.82" src="../media/cd1/10.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  i have a cough -->
+      <text src="../contents/Page28.xhtml#word6"/>
+      <audio clipBegin="0:00:32.82" clipEnd="0:00:39.40" src="../media/cd1/10.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  then, the fall -->
+      <text src="../contents/Page28.xhtml#word7"/>
+      <audio clipBegin="0:00:39.40" clipEnd="0:00:46.12" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  why did you change -->
+      <text src="../contents/Page28.xhtml#word8"/>
+      <audio clipBegin="0:00:46.12" clipEnd="0:00:48.38" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  i thought you'd be lonely -->
+      <text src="../contents/Page28.xhtml#word9"/>
+      <audio clipBegin="0:00:48.38" clipEnd="0:00:50.22" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  actually, i came -->
+      <text src="../contents/Page28.xhtml#word10"/>
+      <audio clipBegin="0:00:50.22" clipEnd="0:00:53.12" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id11">
+      <!--  however, darwin soon -->
+      <text src="../contents/Page28.xhtml#word11"/>
+      <audio clipBegin="0:00:53.12" clipEnd="0:00:58.60" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id12">
+      <!--  doctor -->
+      <text src="../contents/Page28.xhtml#word12"/>
+      <audio clipBegin="0:00:58.60" clipEnd="0:01:01.36" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id13">
+      <!--  what are you -->
+      <text src="../contents/Page28.xhtml#word13"/>
+      <audio clipBegin="0:01:01.36" clipEnd="0:01:05.84" src="../media/cd1/10.mp3"/>
+	</par>
+	<par id="id14">
+      <!--  it hurts so bad -->
+      <text src="../contents/Page28.xhtml#word14"/>
+      <audio clipBegin="0:01:05.84" clipEnd="0:01:09.58" src="../media/cd1/10.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

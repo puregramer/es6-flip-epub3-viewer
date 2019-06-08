@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  this discovery -->
+      <text src="../contents/Page137.xhtml#word1"/>
+      <audio clipBegin="0:00:33.46" clipEnd="0:00:39.20" src="../media/cd2/12.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  does that mean -->
+      <text src="../contents/Page137.xhtml#word2"/>
+      <audio clipBegin="0:00:39.20" clipEnd="0:00:44.04" src="../media/cd2/12.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  long ago -->
+      <text src="../contents/Page137.xhtml#word3"/>
+      <audio clipBegin="0:00:44.04" clipEnd="0:00:51.60" src="../media/cd2/12.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- they then spread -->
+      <text src="../contents/Page137.xhtml#word4"/>
+      <audio clipBegin="0:00:51.60" clipEnd="0:00:57.50" src="../media/cd2/12.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- but the plants -->
+      <text src="../contents/Page137.xhtml#word5"/>
+      <audio clipBegin="0:00:57.50" clipEnd="0:01:02.62" src="../media/cd2/12.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- over time -->
+      <text src="../contents/Page137.xhtml#word6"/>
+      <audio clipBegin="0:01:02.62" clipEnd="0:01:09.22" src="../media/cd2/12.mp3"/>
+    </par>
+  </body>
+</smil>

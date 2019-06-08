@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  if animals -->
+      <text src="../contents/Page147.xhtml#word1"/>
+      <audio clipBegin="0:00:35.24" clipEnd="0:00:42.46" src="../media/cd2/17.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  a cheetah -->
+      <text src="../contents/Page147.xhtml#word2"/>
+      <audio clipBegin="0:00:42.46" clipEnd="0:00:47.22" src="../media/cd2/17.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  the surviving -->
+      <text src="../contents/Page147.xhtml#word3"/>
+      <audio clipBegin="0:00:47.22" clipEnd="0:00:52.44" src="../media/cd2/17.mp3"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- you heard what -->
+      <text src="../contents/Page14.xhtml#word1"/>
+      <audio clipBegin="0:00:04.36" clipEnd="0:00:11.86" src="../media/cd1/03.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- so from now on  -->
+      <text src="../contents/Page14.xhtml#word2"/>
+      <audio clipBegin="0:00:11.86" clipEnd="0:00:15.28" src="../media/cd1/03.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- ma- marianne  -->
+      <text src="../contents/Page14.xhtml#word3"/>
+      <audio clipBegin="0:00:15.28" clipEnd="0:00:16.92" src="../media/cd1/03.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  why aren't you -->
+      <text src="../contents/Page14.xhtml#word4"/>
+      <audio clipBegin="0:00:16.92" clipEnd="0:00:21.32" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   i was just about -->
+      <text src="../contents/Page14.xhtml#word5"/>
+      <audio clipBegin="0:00:21.32" clipEnd="0:00:24.18" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  wow -->
+      <text src="../contents/Page14.xhtml#word6"/>
+      <audio clipBegin="0:00:24.18" clipEnd="0:00:26.28" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  if you get to act in father -->
+      <text src="../contents/Page14.xhtml#word7"/>
+      <audio clipBegin="0:00:26.28" clipEnd="0:00:30.02" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id8">
+      <!--  you little -->
+      <text src="../contents/Page14.xhtml#word8"/>
+      <audio clipBegin="0:00:30.02" clipEnd="0:00:31.22" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id9">
+      <!--  charles? as for you -->
+      <text src="../contents/Page14.xhtml#word9"/>
+      <audio clipBegin="0:00:31.22" clipEnd="0:00:35.60" src="../media/cd1/03.mp3"/>
+    </par>
+	<par id="id10">
+      <!--  hey -->
+      <text src="../contents/Page14.xhtml#word10"/>
+      <audio clipBegin="0:00:35.60" clipEnd="0:00:36.76" src="../media/cd1/03.mp3"/>
+    </par>
+  </body>
+</smil>
+

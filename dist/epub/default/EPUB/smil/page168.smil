@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  chapter 8 -->
+      <text src="../contents/Page168.xhtml#word1"/>
+      <audio clipBegin="0:00:04.88" clipEnd="0:00:12.58" src="../media/cd2/28.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  opposition -->
+      <text src="../contents/Page168.xhtml#word2"/>
+      <audio clipBegin="0:00:12.58" clipEnd="0:00:28.68" src="../media/cd2/28.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  his daughter -->
+      <text src="../contents/Page168.xhtml#word3"/>
+      <audio clipBegin="0:00:28.68" clipEnd="0:00:35.50" src="../media/cd2/28.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- that leaf -->
+      <text src="../contents/Page168.xhtml#word4"/>
+      <audio clipBegin="0:00:35.50" clipEnd="0:00:39.02" src="../media/cd2/28.mp3"/>
+    </par>
+	<par id="id5">
+      <!--  th's called a pitcher -->
+      <text src="../contents/Page168.xhtml#word5"/>
+      <audio clipBegin="0:00:39.02" clipEnd="0:00:42.50" src="../media/cd2/28.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- you mean -->
+      <text src="../contents/Page168.xhtml#word6"/>
+      <audio clipBegin="0:00:42.50" clipEnd="0:00:46.28" src="../media/cd2/28.mp3"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- about -->
+      <text src="../contents/Page31.xhtml#word1"/>
+      <audio clipBegin="0:00:38.60" clipEnd="0:00:44.82" src="../media/cd1/11.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- you'll be fine  -->
+      <text src="../contents/Page31.xhtml#word2"/>
+      <audio clipBegin="0:00:44.82" clipEnd="0:00:47.18" src="../media/cd1/11.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- do you really  -->
+      <text src="../contents/Page31.xhtml#word3"/>
+      <audio clipBegin="0:00:47.18" clipEnd="0:00:48.94" src="../media/cd1/11.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  don't be so sad -->
+      <text src="../contents/Page31.xhtml#word4"/>
+      <audio clipBegin="0:00:48.94" clipEnd="0:00:50.76" src="../media/cd1/11.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   okay, i'm off -->
+      <text src="../contents/Page31.xhtml#word5"/>
+      <audio clipBegin="0:00:50.76" clipEnd="0:00:52.26" src="../media/cd1/11.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  brother -->
+      <text src="../contents/Page31.xhtml#word6"/>
+      <audio clipBegin="0:00:52.26" clipEnd="0:00:53.46" src="../media/cd1/11.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  wahoo -->
+      <text src="../contents/Page31.xhtml#word7"/>
+      <audio clipBegin="0:00:53.46" clipEnd="0:00:58.98" src="../media/cd1/11.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  ah, my address -->
+      <text src="../contents/Page31.xhtml#word8"/>
+      <audio clipBegin="0:00:58.98" clipEnd="0:01:00.62" src="../media/cd1/11.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  yippee -->
+      <text src="../contents/Page31.xhtml#word9"/>
+      <audio clipBegin="0:01:00.62" clipEnd="0:01:02.82" src="../media/cd1/11.mp3"/>
+	</par>
+	<par id="id10">
+      <!--  brother -->
+      <text src="../contents/Page31.xhtml#word10"/>
+      <audio clipBegin="0:01:02.82" clipEnd="0:01:04.00" src="../media/cd1/11.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

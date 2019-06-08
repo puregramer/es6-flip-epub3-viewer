@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  in 1858, lyell -->
+      <text src="../contents/Page165.xhtml#word1"/>
+      <audio clipBegin="0:00:52.40" clipEnd="0:00:59.22" src="../media/cd2/26.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  it turns out -->
+      <text src="../contents/Page165.xhtml#word2"/>
+      <audio clipBegin="0:00:59.22" clipEnd="0:01:05.54" src="../media/cd2/26.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  the variation -->
+      <text src="../contents/Page165.xhtml#word3"/>
+      <audio clipBegin="0:01:05.54" clipEnd="0:01:09.42" src="../media/cd2/26.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- strange -->
+      <text src="../contents/Page165.xhtml#word4"/>
+      <audio clipBegin="0:01:09.42" clipEnd="0:01:14.48" src="../media/cd2/26.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- if charles hears -->
+      <text src="../contents/Page165.xhtml#word5"/>
+      <audio clipBegin="0:01:14.48" clipEnd="0:01:17.86" src="../media/cd2/26.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- the theory of -->
+      <text src="../contents/Page165.xhtml#word6"/>
+      <audio clipBegin="0:01:17.86" clipEnd="0:01:28.44" src="../media/cd2/26.mp3"/>
+    </par>
+  </body>
+</smil>

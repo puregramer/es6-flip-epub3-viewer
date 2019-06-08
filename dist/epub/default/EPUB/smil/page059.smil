@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!--  hmm -->
+      <text src="../contents/Page59.xhtml#word1"/>
+      <audio clipBegin="0:00:32.52" clipEnd="0:00:38.22" src="../media/cd1/25.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- hi, i'm  -->
+      <text src="../contents/Page59.xhtml#word2"/>
+      <audio clipBegin="0:00:38.22" clipEnd="0:00:42.54" src="../media/cd1/25.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  wow -->
+      <text src="../contents/Page59.xhtml#word3"/>
+      <audio clipBegin="0:00:42.54" clipEnd="0:00:46.86" src="../media/cd1/25.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  what's -->
+      <text src="../contents/Page59.xhtml#word4"/>
+      <audio clipBegin="0:00:46.86" clipEnd="0:00:49.16" src="../media/cd1/25.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   just show -->
+      <text src="../contents/Page59.xhtml#word5"/>
+      <audio clipBegin="0:00:49.16" clipEnd="0:00:52.04" src="../media/cd1/25.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  oh this -->
+      <text src="../contents/Page59.xhtml#word6"/>
+      <audio clipBegin="0:00:52.04" clipEnd="0:00:56.06" src="../media/cd1/25.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  it explains -->
+      <text src="../contents/Page59.xhtml#word7"/>
+      <audio clipBegin="0:00:56.06" clipEnd="0:01:01.44" src="../media/cd1/25.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  would you -->
+      <text src="../contents/Page59.xhtml#word8"/>
+      <audio clipBegin="0:01:01.44" clipEnd="0:01:02.86" src="../media/cd1/25.mp3"/>
+	</par>
+	<par id="id9">
+      <!--  um, no thanks -->
+      <text src="../contents/Page59.xhtml#word9"/>
+      <audio clipBegin="0:01:02.86" clipEnd="0:01:04.38" src="../media/cd1/25.mp3"/>
+	</par>
+	<par id="id10">
+      <!-- hahaha -->
+      <text src="../contents/Page59.xhtml#word10"/>
+      <audio clipBegin="0:01:04.38" clipEnd="0:01:06.20" src="../media/cd1/25.mp3"/>
+	</par>
+  </body>
+</smil>

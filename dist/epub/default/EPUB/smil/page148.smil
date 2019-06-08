@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  the offspring -->
+      <text src="../contents/Page148.xhtml#word1"/>
+      <audio clipBegin="0:00:04.24" clipEnd="0:00:07.80" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  that's it! species -->
+      <text src="../contents/Page148.xhtml#word2"/>
+      <audio clipBegin="0:00:07.80" clipEnd="0:00:13.62" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin had a strong -->
+      <text src="../contents/Page148.xhtml#word3"/>
+      <audio clipBegin="0:00:13.62" clipEnd="0:00:17.84" src="../media/cd2/18.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- breeders bred animals -->
+      <text src="../contents/Page148.xhtml#word4"/>
+      <audio clipBegin="0:00:17.84" clipEnd="0:00:22.36" src="../media/cd2/18.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- imagine -->
+      <text src="../contents/Page148.xhtml#word5"/>
+      <audio clipBegin="0:00:22.36" clipEnd="0:00:28.26" src="../media/cd2/18.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- well -->
+      <text src="../contents/Page148.xhtml#word6"/>
+      <audio clipBegin="0:00:28.26" clipEnd="0:00:29.44" src="../media/cd2/18.mp3"/>
+    </par>
+  </body>
+</smil>

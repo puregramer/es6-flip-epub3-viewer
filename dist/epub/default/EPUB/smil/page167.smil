@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  then, on november -->
+      <text src="../contents/Page167.xhtml#word1"/>
+      <audio clipBegin="0:00:41.72" clipEnd="0:00:51.78" src="../media/cd2/27.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  as soon -->
+      <text src="../contents/Page167.xhtml#word2"/>
+      <audio clipBegin="0:00:51.78" clipEnd="0:01:00.86" src="../media/cd2/27.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  darwin was pleased -->
+      <text src="../contents/Page167.xhtml#word3"/>
+      <audio clipBegin="0:01:00.86" clipEnd="0:01:05.62" src="../media/cd2/27.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- while open -->
+      <text src="../contents/Page167.xhtml#word4"/>
+      <audio clipBegin="0:01:05.62" clipEnd="0:01:15.04" src="../media/cd2/27.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- blasphemy -->
+      <text src="../contents/Page167.xhtml#word5"/>
+      <audio clipBegin="0:01:15.04" clipEnd="0:01:19.60" src="../media/cd2/27.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- while the criticism -->
+      <text src="../contents/Page167.xhtml#word6"/>
+      <audio clipBegin="0:01:19.60" clipEnd="0:01:35.22" src="../media/cd2/27.mp3"/>
+    </par>
+  </body>
+</smil>

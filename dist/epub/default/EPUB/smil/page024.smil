@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- oh no -->
+      <text src="../contents/Page24.xhtml#word1"/>
+      <audio clipBegin="0:00:03.60" clipEnd="0:00:06.40" src="../media/cd1/08.mp3"/>
+    </par>
+    <par id="id2">
+      <!-- everything should be fine  -->
+      <text src="../contents/Page24.xhtml#word2"/>
+      <audio clipBegin="0:00:06.40" clipEnd="0:00:10.58" src="../media/cd1/08.mp3"/>
+    </par>
+    <par id="id3">
+      <!-- sister  -->
+      <text src="../contents/Page24.xhtml#word3"/>
+      <audio clipBegin="0:00:10.58" clipEnd="0:00:12.58" src="../media/cd1/08.mp3"/>
+    </par>
+    <par id="id4">
+      <!--  i can't believe -->
+      <text src="../contents/Page24.xhtml#word4"/>
+      <audio clipBegin="0:00:12.58" clipEnd="0:00:17.02" src="../media/cd1/08.mp3"/>
+    </par>
+	<par id="id5">
+      <!--   it wasn't me -->
+      <text src="../contents/Page24.xhtml#word5"/>
+      <audio clipBegin="0:00:17.02" clipEnd="0:00:20.10" src="../media/cd1/08.mp3"/>
+    </par>
+	<par id="id6">
+      <!--  huh! he -->
+      <text src="../contents/Page24.xhtml#word6"/>
+      <audio clipBegin="0:00:20.10" clipEnd="0:00:24.62" src="../media/cd1/08.mp3"/>
+    </par>
+	<par id="id7">
+      <!--  charles, you traitor -->
+      <text src="../contents/Page24.xhtml#word7"/>
+      <audio clipBegin="0:00:24.62" clipEnd="0:00:26.26" src="../media/cd1/08.mp3"/>
+	</par>
+	<par id="id8">
+      <!--  so you -->
+      <text src="../contents/Page24.xhtml#word8"/>
+      <audio clipBegin="0:00:26.26" clipEnd="0:00:30.20" src="../media/cd1/08.mp3"/>
+	</par>
+  </body>
+</smil>
+
+

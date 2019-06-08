@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2011/epub" version="3.0">
+  <body>
+   <par id="id1">
+      <!--  wallace had -->
+      <text src="../contents/Page163.xhtml#word1"/>
+      <audio clipBegin="0:00:48.58" clipEnd="0:00:54.90" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id2">
+      <!--  oh my -->
+      <text src="../contents/Page163.xhtml#word2"/>
+      <audio clipBegin="0:00:54.90" clipEnd="0:00:56.46" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id3">
+      <!--  now i won't be -->
+      <text src="../contents/Page163.xhtml#word3"/>
+      <audio clipBegin="0:00:56.46" clipEnd="0:01:01.18" src="../media/cd2/25.mp3"/>
+    </par>
+    <par id="id4">
+      <!-- what have i been -->
+      <text src="../contents/Page163.xhtml#word4"/>
+      <audio clipBegin="0:01:01.18" clipEnd="0:01:07.50" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id5">
+      <!-- darwin sent wallace -->
+      <text src="../contents/Page163.xhtml#word5"/>
+      <audio clipBegin="0:01:07.50" clipEnd="0:01:14.94" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id6">
+      <!-- can you believe -->
+      <text src="../contents/Page163.xhtml#word6"/>
+      <audio clipBegin="0:01:14.94" clipEnd="0:01:18.20" src="../media/cd2/25.mp3"/>
+    </par>
+	<par id="id7">
+      <!-- i know,  basically -->
+      <text src="../contents/Page163.xhtml#word7"/>
+      <audio clipBegin="0:01:18.20" clipEnd="0:01:23.86" src="../media/cd2/25.mp3"/>
+	</par> 
+  </body>
+</smil>

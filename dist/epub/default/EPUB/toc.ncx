@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:ISBN:979-11-306-0293-6"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/">
+		<text>who-02 찰스 다윈</text>
+	</docTitle>
+	<navMap xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>01 A Boy Full of Curiosity</text>
+			</navLabel>
+			<content src="contents/Page10.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>02 A Biology Expert in Cambridge</text>
+			</navLabel>
+			<content src="contents/Page30.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>03 The Voyage of the Beagle</text>
+			</navLabel>
+			<content src="contents/Page50.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>04 The Birth of the Theory of Evolution</text>
+			</navLabel>
+			<content src="contents/Page84.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-5" playOrder="5">
+			<navLabel>
+				<text>05 The Galapagos Islands</text>
+			</navLabel>
+			<content src="contents/Page114.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-6" playOrder="6">
+			<navLabel>
+				<text>06 Evidence for Evolution</text>
+			</navLabel>
+			<content src="contents/Page130.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-7" playOrder="7">
+			<navLabel>
+				<text>07 Animals That Survived</text>
+			</navLabel>
+			<content src="contents/Page150.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-8" playOrder="8">
+			<navLabel>
+				<text>08 Darwin, The Great Scientist</text>
+			</navLabel>
+			<content src="contents/Page168.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-9" playOrder="9">
+			<navLabel>
+				<text>The Origin of Species</text>
+			</navLabel>
+			<content src="contents/Page183.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-10" playOrder="10">
+			<navLabel>
+				<text>Workbook</text>
+			</navLabel>
+			<content src="contents/Page200.xhtml"/>
+		</navPoint>
+		
+	</navMap>
+</ncx>
